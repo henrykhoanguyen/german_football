@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "German football backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrykhoanguyen/german_football.git"
+  },
+  "author": "Khoa Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henrykhoanguyen/german_football/issues"
+  },
+  "homepage": "https://github.com/henrykhoanguyen/german_football#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "csv-parser": "^2.3.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
