@@ -1,6 +1,17 @@
 const mongoose = require("mongoose");
 
 const BundesligaSchema = new mongoose.Schema({
+  /*
+  Div: {
+    type: String,
+    enum: ["D1", "D2"], // Devision 1, 2
+    required: true
+  }
+  Season: {
+    type: String
+  }
+  
+  */
   Div: {
     type: String,
     enum: ["D1", "D2"], // Devision 1, 2
