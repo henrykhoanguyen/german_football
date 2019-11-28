@@ -1,39 +1,37 @@
 const csv = require("csv-parser");
 const fs = require("fs");
-// const Bundesliga = require('./models/Bundesliga');
-// const mongoose = require("mongoose");
-// const dotenv = require("dotenv");
+const Bundesliga = require('./models/Bundesliga');
+const mongoose = require("mongoose");
+const dotenv = require("dotenv");
 
+// Load env vars
+dotenv.config({ path: "./config/config.env" });
 
-// // Load env vars
-// dotenv.config({ path: "./config/config.env" });
-
-
-// // Connect to DB
-// mongoose.connect(process.env.MONGO_URI, {
-//   useNewUrlParser: true,
-//   useCreateIndex: true,
-//   useFindAndModify: false,
-//   useUnifiedTopology: true
-// });
+// Connect to DB
+mongoose.connect(process.env.MONGO_URI, {
+  useNewUrlParser: true,
+  useCreateIndex: true,
+  useFindAndModify: false,
+  useUnifiedTopology: true
+});
 
 var results = [];
 
+var writable = fs.createWriteStream(`${__dirname}/_data/test.json`);
 // TODO: working on parsing csv file with different package (csvtojson)
-fs.createReadStream(
-  "/Users/khoanguyen/Downloads/School/code/Projects/german_football/_data/16-17/D1_copy.csv"
-)
-  .pipe(csv({
-    mapHeaders: ({ header, index }) => header.toLowerCase()
-  } | ['HomeTeam']))
-  .on("headers", header => console.log(header[0]))
+fs.createReadStream(`${__dirname}/_data/16-17/D1_copy.csv`)
+  .pipe(csv())
+  .on("data", data => {
+    // console.log(data)
+    results.push(data);
+  })
   .on("end", () => {
-    // try {
-    //   await Bundesliga.create(results);
-    //   process.exit();
-    // } catch (error) {
-    //   console.log(error)
-    // }
-      console.log(results)
+    writable.write(JSON.stringify(results));
+    // the finish event is emitted when all data has been flushed from the stream
+    writable.on("finish", () => {
+      console.log("wrote all data to file");
+    });
 
+    // close the stream
+    writable.end();
   });

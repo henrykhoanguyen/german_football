@@ -10,7 +10,6 @@ const BundesligaSchema = new mongoose.Schema({
   Season: {
     type: String
   }
-  
   */
   Div: {
     type: String,
