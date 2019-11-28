@@ -22,10 +22,9 @@ const bundesliga = JSON.parse(
   fs.readFileSync(`${__dirname}/_data/test.json`, "utf-8")
 );
 
-
+// Import into DB
 const importData = async () => {
   try {
-    // await console.log(bundesliga)
     await Bundesliga.create(bundesliga);
     console.log("Data imported...".green.inverse);
     process.exit();
@@ -34,6 +33,19 @@ const importData = async () => {
   }
 }
 
+// Delete data
+const deleteData = async () => {
+  try {
+    await Bundesliga.deleteMany();
+    console.log("Data destroyed...".red.inverse);
+    process.exit();
+  } catch (err) {
+    console.error(err);
+  }
+};
+
 if (process.argv[2] === "-i") {
   importData();
+} else if (process.argv[2] === "-d"){
+  deleteData();
 }

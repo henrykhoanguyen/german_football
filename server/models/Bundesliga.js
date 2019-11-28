@@ -1,23 +1,13 @@
 const mongoose = require("mongoose");
 
 const BundesligaSchema = new mongoose.Schema({
-  /*
-  Div: {
-    type: String,
-    enum: ["D1", "D2"], // Devision 1, 2
-    required: true
-  }
-  Season: {
-    type: String
-  }
-  */
-  Div: {
+  Division: {
     type: String,
     enum: ["D1", "D2"], // Devision 1, 2
     required: true
   },
   Date: {
-    type: String,
+    type: Date,
     required: true
   },
   HomeTeam: {
@@ -29,75 +19,91 @@ const BundesligaSchema = new mongoose.Schema({
     required: true
   },
   // Full Time Home Team Goals
-  FTHG: {
-    type: String
+  FullTimeHomeGoals: {
+    type: Number,
+    required: true
   },
   // Full Time Away Team Goals
-  FTAG: {
-    type: String
+  FullTimeAwayGoals: {
+    type: Number,
+    required: true
   },
   // Full Time Result
-  FTR: {
+  FullTimeResult: {
     type: String,
-    enum: ["H", "D", "A"] // H=Home Win, D=Draw, A=Away Win
+    enum: ["H", "D", "A"], // H=Home Win, D=Draw, A=Away Win
+    required: true
   },
   // Haft Time Home Team Goals
-  HTHG: {
-    type: String
+  HaftTimeHomeGoals: {
+    type: Number,
+    required: true
   },
   // Haft Time Away Team Goals
-  HTAG: {
-    type: String
+  HaftTimeAwayGoals: {
+    type: Number,
+    required: true
   },
   // Home Team Shots
-  HS: {
-    type: String
+  HomeShots: {
+    type: Number,
+    required: true
   },
   // Away Team Shots
-  AS: {
-    type: String
+  AwayShots: {
+    type: Number,
+    required: true
   },
   // Home Team Shots on Target
-  HST: {
-    type: String
+  HomeShotsTarget: {
+    type: Number,
+    required: true
   },
   // Away Team Shots on Target
-  AST: {
-    type: String
+  AwayShotsTarget: {
+    type: Number,
+    required: true
   },
   // Home Team Fouls Committed
-  HF: {
-    type: String
+  HomeFouls: {
+    type: Number,
+    required: true
   },
   // Away Team Fouls Committed
-  AF: {
-    type: String
+  AwayFouls: {
+    type: Number,
+    required: true
   },
   // Home Team Corners
-  HC: {
-    type: String
+  HomeCorners: {
+    type: Number,
+    required: true
   },
   // Away Team Corners
-  AC: {
-    type: String
+  AwayCorners: {
+    type: Number,
+    required: true
   },
   // Home Team Yellow Cards
-  HY: {
-    type: String
+  HomeYellow: {
+    type: Number,
+    required: true
   },
   // Away Team Yellow Cards
-  AY: {
-    type: String
+  AwayYellow: {
+    type: Number,
+    required: true
   },
   // Home Team Red Cards
-  HR: {
-    type: String
+  HomeRed: {
+    type: Number,
+    required: true
   },
   // Away Team Red Cards
-  AR: {
-    type: String
+  AwayRed: {
+    type: Number,
+    required: true
   }
 });
-
 
 module.exports = mongoose.model("Bundesliga", BundesligaSchema);
