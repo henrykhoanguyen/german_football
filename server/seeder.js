@@ -1,11 +1,13 @@
-const csv = require("csv-parser");
-const fs = require("fs");
-const Bundesliga = require('./models/Bundesliga');
 const mongoose = require("mongoose");
+const fs = require("fs");
+const colors = require("colors");
 const dotenv = require("dotenv");
 
 // Load env vars
 dotenv.config({ path: "./config/config.env" });
+
+// Load models
+const Bundesliga = require("./models/Bundesliga");
 
 // Connect to DB
 mongoose.connect(process.env.MONGO_URI, {
@@ -15,23 +17,23 @@ mongoose.connect(process.env.MONGO_URI, {
   useUnifiedTopology: true
 });
 
-var results = [];
+// Read JSON files
+const bundesliga = JSON.parse(
+  fs.readFileSync(`${__dirname}/_data/test.json`, "utf-8")
+);
 
-var writable = fs.createWriteStream(`${__dirname}/_data/test.json`);
-// TODO: working on parsing csv file with different package (csvtojson)
-fs.createReadStream(`${__dirname}/_data/16-17/D1_copy.csv`)
-  .pipe(csv())
-  .on("data", data => {
-    // console.log(data)
-    results.push(data);
-  })
-  .on("end", () => {
-    writable.write(JSON.stringify(results));
-    // the finish event is emitted when all data has been flushed from the stream
-    writable.on("finish", () => {
-      console.log("wrote all data to file");
-    });
 
-    // close the stream
-    writable.end();
-  });
+const importData = async () => {
+  try {
+    // await console.log(bundesliga)
+    await Bundesliga.create(bundesliga);
+    console.log("Data imported...".green.inverse);
+    process.exit();
+  } catch (err) {
+    console.error(err);
+  }
+}
+
+if (process.argv[2] === "-i") {
+  importData();
+}
