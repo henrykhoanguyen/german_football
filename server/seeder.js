@@ -17,10 +17,16 @@ mongoose.connect(process.env.MONGO_URI, {
   useUnifiedTopology: true
 });
 
+let bundesliga = {};
 // Read JSON files
-const bundesliga = JSON.parse(
-  fs.readFileSync(`${__dirname}/_data/test.json`, "utf-8")
-);
+if (process.argv[3] !== undefined) {
+  bundesliga = JSON.parse(
+    fs.readFileSync(`${__dirname}/_data/${process.argv[3]}.json`, "utf-8")
+  );
+} else {
+  console.log("Please enter season folder and division number\n(e.g: 16-17/D1)")
+  process.exit();
+}
 
 // Import into DB
 const importData = async () => {
@@ -31,7 +37,7 @@ const importData = async () => {
   } catch (err) {
     console.error(err);
   }
-}
+};
 
 // Delete data
 const deleteData = async () => {
@@ -46,6 +52,6 @@ const deleteData = async () => {
 
 if (process.argv[2] === "-i") {
   importData();
-} else if (process.argv[2] === "-d"){
+} else if (process.argv[2] === "-d") {
   deleteData();
 }

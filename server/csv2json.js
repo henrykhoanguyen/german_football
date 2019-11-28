@@ -4,8 +4,8 @@ const colors = require("colors");
 
 var results = [];
 
-var readable = fs.createReadStream(`${__dirname}/_data/16-17/D1_copy.csv`);
-var writable = fs.createWriteStream(`${__dirname}/_data/test.json`);
+var readable = fs.createReadStream(`${__dirname}/_data/${process.argv[2]}.csv`);
+var writable = fs.createWriteStream(`${__dirname}/_data/${process.argv[2]}.json`);
 
 // Parser to parse csv file
 readable
@@ -43,7 +43,7 @@ readable
     results.push(info);
   })
   .on("end", () => {
-    console.log(results);
+    // console.log(results);
     // Write parsed data into JSON file
     writable.write(JSON.stringify(results, null, 10));
 
