@@ -1,29 +1,31 @@
-const mongoose = require("mongoose");
+// const mongoose = require("mongoose");
 const fs = require("fs");
 const colors = require("colors");
 const dotenv = require("dotenv");
+const connectDB = require("./config/db");
 
 // Load env vars
 dotenv.config({ path: "./config/config.env" });
 
 // Load models
-const Bundesliga = require("./models/Bundesliga");
-
+const Matches = require("./models/Matches");
+connectDB();
 // Connect to DB
-mongoose.connect(process.env.MONGO_URI, {
-  useNewUrlParser: true,
-  useCreateIndex: true,
-  useFindAndModify: false,
-  useUnifiedTopology: true
-});
+// mongoose.connect(process.env.MONGO_URI, {
+//   useNewUrlParser: true,
+//   useCreateIndex: true,
+//   useFindAndModify: false,
+//   useUnifiedTopology: true
+// });
 
-let bundesliga = {};
+let matches = {};
+
 // Read JSON files
-if (process.argv[3] !== undefined) {
-  bundesliga = JSON.parse(
+if (process.argv[3] !== undefined && process.argv[2] === "-i") {
+  matches = JSON.parse(
     fs.readFileSync(`${__dirname}/_data/${process.argv[3]}.json`, "utf-8")
   );
-} else {
+} else if (process.argv[3] === undefined && process.argv[2] === "-i") {
   console.log("Please enter season folder and division number\n(e.g: 16-17/D1)")
   process.exit();
 }
@@ -31,7 +33,7 @@ if (process.argv[3] !== undefined) {
 // Import into DB
 const importData = async () => {
   try {
-    await Bundesliga.create(bundesliga);
+    await Matches.create(matches);
     console.log("Data imported...".green.inverse);
     process.exit();
   } catch (err) {
@@ -42,7 +44,7 @@ const importData = async () => {
 // Delete data
 const deleteData = async () => {
   try {
-    await Bundesliga.deleteMany();
+    await Matches.deleteMany();
     console.log("Data destroyed...".red.inverse);
     process.exit();
   } catch (err) {

@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const BundesligaSchema = new mongoose.Schema({
+const MatchesSchema = new mongoose.Schema({
   Division: {
     type: String,
     enum: ["D1", "D2"], // Devision 1, 2
@@ -106,4 +106,4 @@ const BundesligaSchema = new mongoose.Schema({
   }
 });
 
-module.exports = mongoose.model("Bundesliga", BundesligaSchema);
+module.exports = mongoose.model("Matches", MatchesSchema);

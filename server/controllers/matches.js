@@ -1,7 +1,7 @@
 const asyncHandler = require("../middleware/async");
 const ErrorResponse = require("../utils/errorResponse");
 // Model
-const Bundesliga = require("../models/Bundesliga");
+const Matches = require("../models/Matches");
 
 // @desc    Get all matches
 // @route   GET /api/v1/matches
@@ -15,7 +15,7 @@ exports.getMatches = asyncHandler(async (req, res, next) => {
 // @route   GET /api/v1/matches/:id
 // @access  Public
 exports.getMatch = asyncHandler(async (req, res, next) => {
-  const match = await Bundesliga.findById(req.params.id);
+  const match = await Matches.findById(req.params.id);
 
   if (!match) {
     // console.log("HELLO")
