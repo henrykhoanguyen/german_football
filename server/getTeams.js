@@ -70,10 +70,16 @@ matches.forEach(info => {
 
   home.setGoalAgainst(info.FullTimeAwayGoals);
   away.setGoalFor(info.FullTimeAwayGoals);
+
+  // Set goals differences
+  home.setGoalsDiff();
+  away.setGoalsDiff();
+
+  // Set points
+  home.setPts();
+  away.setPts();
 });
 
-
 console.log(hashtb.showDistro());
-
 
 process.exit();

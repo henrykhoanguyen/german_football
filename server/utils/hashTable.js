@@ -76,10 +76,6 @@ const HashTable = class {
     return this.counter;
   }
 
-  getTable(){
-    return this.table;
-  }
-
   isEnoughTeam() {
     if (this.counter < 18) {
       // console.log(this.counter);

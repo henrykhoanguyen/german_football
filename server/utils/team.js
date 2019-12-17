@@ -9,7 +9,7 @@ class Team {
     this.goalAgainst = 0;
     this.goalDifferences = 0;
     this.points = 0;
-    this.teamForm = []; // maybe
+    // this.teamForm = []; // maybe
   }
 
   getName() {
@@ -34,6 +34,14 @@ class Team {
 
   setGoalAgainst(goals) {
     this.goalAgainst += goals;
+  }
+
+  setGoalsDiff(){
+    this.goalDifferences = this.goalFor - this.goalAgainst;
+  }
+
+  setPts(){
+    this.points = this.win * 3 + this.draw;
   }
 }
 
