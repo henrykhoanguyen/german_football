@@ -70,11 +70,9 @@ matches.forEach(info => {
 
   home.setGoalAgainst(info.FullTimeAwayGoals);
   away.setGoalFor(info.FullTimeAwayGoals);
-})
+});
 
-// console.log(hashtb.isEnoughTeam());
-// console.log(hashtb.getValue(4));
-// console.log(hashtb.getValue(4).setWin());
+
 console.log(hashtb.showDistro());
 
 
