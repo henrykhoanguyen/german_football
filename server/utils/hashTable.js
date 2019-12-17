@@ -35,7 +35,7 @@ const HashTable = class {
   }
 
   put(data) {
-    let pos = this.hash(data);
+    let pos = this.hash(data.getName());
 
     // Solving collision by linear probing
     if (this.table[pos] === undefined) {
@@ -43,10 +43,16 @@ const HashTable = class {
       this.counter++;
       // console.log(pos, data);
     } else {
-      while (this.table[pos] !== undefined && this.table[pos] !== data) {
+      while (
+        this.table[pos] !== undefined &&
+        this.table[pos].getName() !== data.getName()
+      ) {
         pos++;
       }
-      if (this.table[pos] !== data) {
+      if (
+        this.table[pos] === undefined ||
+        this.table[pos].getName() !== data.getName()
+      ) {
         this.table[pos] = data;
         this.counter++;
         // console.log(pos, " : ", data);
@@ -56,18 +62,18 @@ const HashTable = class {
 
   getKey(data) {
     let pos = this.hash(data);
-    while (this.table[pos] !== undefined && this.table[pos] !== data) {
+    while (this.table[pos] !== undefined && this.table[pos].getName() !== data) {
       pos++;
     }
     return pos;
   }
 
-  setTeam(key, data){
-    this.table[key] = data;
+  getValue(key) {
+    return this.table[key];
   }
 
-  isEnoughTeam(){
-    if (this.counter < 18){
+  isEnoughTeam() {
+    if (this.counter < 18) {
       // console.log(this.counter);
       return false;
     } else {

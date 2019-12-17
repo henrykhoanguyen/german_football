@@ -7,7 +7,9 @@ class Team {
     this.draw = 0;
     this.goalFor = 0;
     this.goalAgainst = 0;
-    this.teamForm = [];
+    this.goalDifferences = 0;
+    this.points = 0;
+    this.teamForm = []; // maybe
   }
 
   getName() {
@@ -34,3 +36,5 @@ class Team {
     this.goalAgainst += goals;
   }
 }
+
+module.exports = Team;
