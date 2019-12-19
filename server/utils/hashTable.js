@@ -34,6 +34,16 @@ const HashTable = class {
     }
   }
 
+  getTable() {
+    let returnArr = []
+    for (const key in this.table) {
+      if (this.table[key] !== undefined) {
+        returnArr.push(this.table[key]);
+      }
+    }
+    return returnArr;
+  }
+
   put(data) {
     let pos = this.hash(data.getName());
 

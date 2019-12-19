@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const MatchesSchema = new mongoose.Schema({
   Division: {
     type: String,
-    enum: ["D1", "D2"], // Devision 1, 2
+    enum: ["D1", "D2"], // Division 1, 2
     required: true
   },
   Date: {

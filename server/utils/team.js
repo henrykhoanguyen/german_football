@@ -1,47 +1,47 @@
 class Team {
   constructor(name, division) {
-    this.name = name;
-    this.division = division;
-    this.win = 0;
-    this.lost = 0;
-    this.draw = 0;
-    this.goalFor = 0;
-    this.goalAgainst = 0;
-    this.goalDifferences = 0;
-    this.points = 0;
+    this.Name = name;
+    this.Division = division;
+    this.Win = 0;
+    this.Lost = 0;
+    this.Draw = 0;
+    this.GoalsFor = 0;
+    this.GoalsAgainst = 0;
+    this.GoalsDifferences = 0;
+    this.Points = 0;
     // this.teamForm = []; // maybe
   }
 
   getName() {
-    return this.name;
+    return this.Name;
   }
 
   setWin() {
-    this.win += 1;
+    this.Win += 1;
   }
 
   setLost() {
-    this.lost += 1;
+    this.Lost += 1;
   }
 
   setDraw() {
-    this.draw += 1;
+    this.Draw += 1;
   }
 
   setGoalFor(goals) {
-    this.goalFor += goals;
+    this.GoalsFor += goals;
   }
 
   setGoalAgainst(goals) {
-    this.goalAgainst += goals;
+    this.GoalsAgainst += goals;
   }
 
   setGoalsDiff(){
-    this.goalDifferences = this.goalFor - this.goalAgainst;
+    this.GoalsDifferences = this.GoalsFor - this.GoalsAgainst;
   }
 
   setPts(){
-    this.points = this.win * 3 + this.draw;
+    this.Points = this.Win * 3 + this.Draw;
   }
 }
 
