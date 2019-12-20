@@ -5,7 +5,7 @@ const Matches = require("../models/Matches");
 
 const advancedResults = require("../middleware/advancedResults");
 
-const router = express.Router({ mergeParams: true });
+const router = express.Router({ mergeParams: true }); //merge parameters together
 
 router.route("/").get(advancedResults(Matches, "matches"), getMatches);
 

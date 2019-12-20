@@ -87,7 +87,7 @@ const importData = async () => {
 
   const standing = JSON.parse(JSON.stringify(hashtb.getTable()));
 
-  console.log(standing);
+  // console.log(standing);
 
   try {
     await Standing.create(standing);

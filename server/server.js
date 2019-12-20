@@ -12,6 +12,7 @@ connectDB();
 
 // Route files
 const matches = require("./routes/matches");
+const standings = require("./routes/standings");
 
 const app = express();
 
@@ -20,6 +21,7 @@ app.use(express.json());
 
 // Mount routers
 app.use("/api/v1/matches", matches);
+app.use("/api/v1/standings", standings);
 
 // Use my error handler
 app.use(errorHandler);

@@ -34,7 +34,7 @@ const StandingSchema = new mongoose.Schema({
     type: Number,
     required: true
   },
-  GoalsDifferences: {
+  GoalsDifference: {
     type: Number,
     required: true
   },

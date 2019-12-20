@@ -28,6 +28,8 @@ const advancedResults = (model, populate) => async (req, res, next) => {
     // console.log(query);
   }
 
+  query = query.sort("Date");
+
   if (populate){
     // Populate query with results retrieved from database
     query = query.populate(populate);
