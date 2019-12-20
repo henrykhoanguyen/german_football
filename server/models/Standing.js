@@ -1,6 +1,10 @@
 const mongoose = require("mongoose");
 
 const StandingSchema = new mongoose.Schema({
+  Season: {
+    type: String,
+    required: true
+  },
   Name: {
     type: String,
     required: true

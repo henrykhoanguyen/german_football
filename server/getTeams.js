@@ -38,8 +38,8 @@ const importData = async () => {
   matches.forEach(info => {
     // console.log(element.HomeTeam, element.AwayTeam);
     if (!hashtb.isEnoughTeam()) {
-      const homeInfo = new Team(info.HomeTeam, info.Division);
-      const awayInfo = new Team(info.AwayTeam, info.Division);
+      const homeInfo = new Team(info.HomeTeam, info.Division, String(process.argv[3].split("/")[0]));
+      const awayInfo = new Team(info.AwayTeam, info.Division, String(process.argv[3].split("/")[0]));
 
       hashtb.put(homeInfo);
       hashtb.put(awayInfo);

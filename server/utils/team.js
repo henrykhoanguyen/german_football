@@ -1,7 +1,8 @@
 class Team {
-  constructor(name, division) {
+  constructor(name, division, season) {
     this.Name = name;
     this.Division = division;
+    this.Season = season;
     this.Win = 0;
     this.Lost = 0;
     this.Draw = 0;

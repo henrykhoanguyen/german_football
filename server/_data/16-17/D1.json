@@ -1,6 +1,7 @@
 [
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-08-26T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Werder Bremen",
@@ -24,6 +25,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-08-27T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Wolfsburg",
@@ -47,6 +49,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-08-27T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Mainz",
@@ -70,6 +73,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-08-27T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Schalke 04",
@@ -93,6 +97,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-08-27T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Darmstadt",
@@ -116,6 +121,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-08-27T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Ingolstadt",
@@ -139,6 +145,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-08-27T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Leverkusen",
@@ -162,6 +169,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-08-28T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Freiburg",
@@ -185,6 +193,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-08-28T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "RB Leipzig",
@@ -208,6 +217,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-09T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Bayern Munich",
@@ -231,6 +241,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-10T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Ein Frankfurt",
@@ -254,6 +265,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-10T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "M'gladbach",
@@ -277,6 +289,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-10T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Hertha",
@@ -300,6 +313,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-10T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Hamburg",
@@ -323,6 +337,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-10T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Dortmund",
@@ -346,6 +361,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-10T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "FC Koln",
@@ -369,6 +385,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-11T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Hoffenheim",
@@ -392,6 +409,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-11T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Augsburg",
@@ -415,6 +433,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-16T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Freiburg",
@@ -438,6 +457,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-17T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Ingolstadt",
@@ -461,6 +481,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-17T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Darmstadt",
@@ -484,6 +505,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-17T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Leverkusen",
@@ -507,6 +529,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-17T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "RB Leipzig",
@@ -530,6 +553,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-17T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Wolfsburg",
@@ -553,6 +577,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-17T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Werder Bremen",
@@ -576,6 +601,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-18T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Mainz",
@@ -599,6 +625,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-18T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Schalke 04",
@@ -622,6 +649,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-20T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Hoffenheim",
@@ -645,6 +673,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-20T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Hamburg",
@@ -668,6 +697,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-20T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Ein Frankfurt",
@@ -691,6 +721,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-20T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Dortmund",
@@ -714,6 +745,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-21T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Hertha",
@@ -737,6 +769,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-21T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Augsburg",
@@ -760,6 +793,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-21T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "M'gladbach",
@@ -783,6 +817,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-21T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "FC Koln",
@@ -806,6 +841,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-21T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Mainz",
@@ -829,6 +865,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-23T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Freiburg",
@@ -852,6 +889,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-24T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Darmstadt",
@@ -875,6 +913,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-24T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Hertha",
@@ -898,6 +937,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-24T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Bayern Munich",
@@ -921,6 +961,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-24T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Leverkusen",
@@ -944,6 +985,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-24T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Ingolstadt",
@@ -967,6 +1009,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-24T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Wolfsburg",
@@ -990,6 +1033,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-25T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "RB Leipzig",
@@ -1013,6 +1057,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-25T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Schalke 04",
@@ -1036,6 +1081,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-09-30T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Augsburg",
@@ -1059,6 +1105,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-01T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "FC Koln",
@@ -1082,6 +1129,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-01T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Werder Bremen",
@@ -1105,6 +1153,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-01T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Ein Frankfurt",
@@ -1128,6 +1177,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-01T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Hamburg",
@@ -1151,6 +1201,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-01T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Hoffenheim",
@@ -1174,6 +1225,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-01T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Dortmund",
@@ -1197,6 +1249,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-02T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "M'gladbach",
@@ -1220,6 +1273,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-02T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Mainz",
@@ -1243,6 +1297,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-14T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Hertha",
@@ -1266,6 +1321,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-15T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Schalke 04",
@@ -1289,6 +1345,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-15T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Bayern Munich",
@@ -1312,6 +1369,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-15T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Ingolstadt",
@@ -1335,6 +1393,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-15T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Freiburg",
@@ -1358,6 +1417,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-15T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Hamburg",
@@ -1381,6 +1441,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-15T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Leverkusen",
@@ -1404,6 +1465,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-16T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Darmstadt",
@@ -1427,6 +1489,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-16T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "RB Leipzig",
@@ -1450,6 +1513,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-21T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Ein Frankfurt",
@@ -1473,6 +1537,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-22T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "M'gladbach",
@@ -1496,6 +1561,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-22T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Wolfsburg",
@@ -1519,6 +1585,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-22T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Augsburg",
@@ -1542,6 +1609,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-22T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "FC Koln",
@@ -1565,6 +1633,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-22T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Dortmund",
@@ -1588,6 +1657,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-22T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Hoffenheim",
@@ -1611,6 +1681,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-23T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Werder Bremen",
@@ -1634,6 +1705,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-23T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Mainz",
@@ -1657,6 +1729,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-28T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Ein Frankfurt",
@@ -1680,6 +1753,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-29T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Bayern Munich",
@@ -1703,6 +1777,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-29T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "RB Leipzig",
@@ -1726,6 +1801,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-29T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Schalke 04",
@@ -1749,6 +1825,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-29T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Ingolstadt",
@@ -1772,6 +1849,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-29T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Freiburg",
@@ -1795,6 +1873,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-29T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Leverkusen",
@@ -1818,6 +1897,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-30T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Hamburg",
@@ -1841,6 +1921,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-10-30T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Hertha",
@@ -1864,6 +1945,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-04T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "M'gladbach",
@@ -1887,6 +1969,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-05T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Hoffenheim",
@@ -1910,6 +1993,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-05T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "FC Koln",
@@ -1933,6 +2017,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-05T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Wolfsburg",
@@ -1956,6 +2041,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-05T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Dortmund",
@@ -1979,6 +2065,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-05T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Augsburg",
@@ -2002,6 +2089,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-05T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Darmstadt",
@@ -2025,6 +2113,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-06T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Mainz",
@@ -2048,6 +2137,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-06T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Werder Bremen",
@@ -2071,6 +2161,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-18T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "RB Leipzig",
@@ -2094,6 +2185,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-19T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Hertha",
@@ -2117,6 +2209,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-19T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Ingolstadt",
@@ -2140,6 +2233,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-19T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Bayern Munich",
@@ -2163,6 +2257,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-19T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Freiburg",
@@ -2186,6 +2281,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-19T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "FC Koln",
@@ -2209,6 +2305,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-19T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Schalke 04",
@@ -2232,6 +2329,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-20T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Hamburg",
@@ -2255,6 +2353,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-20T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Ein Frankfurt",
@@ -2278,6 +2377,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-25T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "RB Leipzig",
@@ -2301,6 +2401,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-26T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Leverkusen",
@@ -2324,6 +2425,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-26T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Dortmund",
@@ -2347,6 +2449,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-26T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Augsburg",
@@ -2370,6 +2473,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-26T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Werder Bremen",
@@ -2393,6 +2497,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-26T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Wolfsburg",
@@ -2416,6 +2521,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-26T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Hoffenheim",
@@ -2439,6 +2545,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-27T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Mainz",
@@ -2462,6 +2569,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-11-27T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Darmstadt",
@@ -2485,6 +2593,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-02T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Bayern Munich",
@@ -2508,6 +2617,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-03T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "M'gladbach",
@@ -2531,6 +2641,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-03T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "FC Koln",
@@ -2554,6 +2665,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-03T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Freiburg",
@@ -2577,6 +2689,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-03T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Schalke 04",
@@ -2600,6 +2713,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-03T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Ingolstadt",
@@ -2623,6 +2737,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-03T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Hertha",
@@ -2646,6 +2761,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-04T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Ein Frankfurt",
@@ -2669,6 +2785,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-04T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Hamburg",
@@ -2692,6 +2809,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-09T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Hoffenheim",
@@ -2715,6 +2833,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-10T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Wolfsburg",
@@ -2738,6 +2857,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-10T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Dortmund",
@@ -2761,6 +2881,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-10T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Darmstadt",
@@ -2784,6 +2905,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-10T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Augsburg",
@@ -2807,6 +2929,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-10T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Werder Bremen",
@@ -2830,6 +2953,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-10T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "RB Leipzig",
@@ -2853,6 +2977,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-11T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Mainz",
@@ -2876,6 +3001,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-11T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Leverkusen",
@@ -2899,6 +3025,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-16T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Dortmund",
@@ -2922,6 +3049,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-17T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "M'gladbach",
@@ -2945,6 +3073,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-17T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Hamburg",
@@ -2968,6 +3097,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-17T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Hertha",
@@ -2991,6 +3121,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-17T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Freiburg",
@@ -3014,6 +3145,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-17T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "FC Koln",
@@ -3037,6 +3169,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-17T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Ein Frankfurt",
@@ -3060,6 +3193,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-18T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Bayern Munich",
@@ -3083,6 +3217,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-18T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Ingolstadt",
@@ -3106,6 +3241,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-20T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Augsburg",
@@ -3129,6 +3265,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-20T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Mainz",
@@ -3152,6 +3289,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-20T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Schalke 04",
@@ -3175,6 +3313,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-20T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Wolfsburg",
@@ -3198,6 +3337,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-21T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "RB Leipzig",
@@ -3221,6 +3361,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-21T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Leverkusen",
@@ -3244,6 +3385,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-21T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Darmstadt",
@@ -3267,6 +3409,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-21T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Werder Bremen",
@@ -3290,6 +3433,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2016-12-21T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Freiburg",
@@ -3313,6 +3457,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-20T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Bayern Munich",
@@ -3336,6 +3481,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-21T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Hoffenheim",
@@ -3359,6 +3505,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-21T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "M'gladbach",
@@ -3382,6 +3529,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-21T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Ein Frankfurt",
@@ -3405,6 +3553,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-21T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Ingolstadt",
@@ -3428,6 +3577,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-21T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Dortmund",
@@ -3451,6 +3601,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-21T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Hamburg",
@@ -3474,6 +3625,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-22T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Hertha",
@@ -3497,6 +3649,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-22T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "FC Koln",
@@ -3520,6 +3673,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-27T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Ein Frankfurt",
@@ -3543,6 +3697,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-28T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "FC Koln",
@@ -3566,6 +3721,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-28T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Hamburg",
@@ -3589,6 +3745,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-28T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "M'gladbach",
@@ -3612,6 +3769,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-28T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Hoffenheim",
@@ -3635,6 +3793,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-28T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Bayern Munich",
@@ -3658,6 +3817,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-28T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Augsburg",
@@ -3681,6 +3841,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-29T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Hertha",
@@ -3704,6 +3865,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-01-29T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Dortmund",
@@ -3727,6 +3889,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-03T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Leverkusen",
@@ -3750,6 +3913,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-04T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Schalke 04",
@@ -3773,6 +3937,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-04T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "RB Leipzig",
@@ -3796,6 +3961,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-04T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Wolfsburg",
@@ -3819,6 +3985,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-04T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Ingolstadt",
@@ -3842,6 +4009,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-04T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Mainz",
@@ -3865,6 +4033,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-04T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Freiburg",
@@ -3888,6 +4057,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-05T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Werder Bremen",
@@ -3911,6 +4081,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-05T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Darmstadt",
@@ -3934,6 +4105,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-10T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Augsburg",
@@ -3957,6 +4129,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-11T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Dortmund",
@@ -3980,6 +4153,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-11T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Bayern Munich",
@@ -4003,6 +4177,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-11T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Ein Frankfurt",
@@ -4026,6 +4201,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-11T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Hamburg",
@@ -4049,6 +4225,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-11T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Hertha",
@@ -4072,6 +4249,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-11T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "M'gladbach",
@@ -4095,6 +4273,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-12T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "FC Koln",
@@ -4118,6 +4297,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-12T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Hoffenheim",
@@ -4141,6 +4321,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-17T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Leverkusen",
@@ -4164,6 +4345,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-18T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Wolfsburg",
@@ -4187,6 +4369,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-18T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Ingolstadt",
@@ -4210,6 +4393,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-18T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Freiburg",
@@ -4233,6 +4417,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-18T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Bayern Munich",
@@ -4256,6 +4441,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-18T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Darmstadt",
@@ -4279,6 +4465,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-18T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Werder Bremen",
@@ -4302,6 +4489,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-19T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Schalke 04",
@@ -4325,6 +4513,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-19T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "RB Leipzig",
@@ -4348,6 +4537,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-24T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Werder Bremen",
@@ -4371,6 +4561,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-25T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Hamburg",
@@ -4394,6 +4585,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-25T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Augsburg",
@@ -4417,6 +4609,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-25T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Dortmund",
@@ -4440,6 +4633,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-25T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Ein Frankfurt",
@@ -4463,6 +4657,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-25T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Mainz",
@@ -4486,6 +4681,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-25T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "FC Koln",
@@ -4509,6 +4705,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-26T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "M'gladbach",
@@ -4532,6 +4729,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-02-26T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Hoffenheim",
@@ -4555,6 +4753,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-03T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "RB Leipzig",
@@ -4578,6 +4777,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-04T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Leverkusen",
@@ -4601,6 +4801,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-04T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Bayern Munich",
@@ -4624,6 +4825,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-04T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Ingolstadt",
@@ -4647,6 +4849,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-04T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Wolfsburg",
@@ -4670,6 +4873,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-04T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Schalke 04",
@@ -4693,6 +4897,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-04T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Darmstadt",
@@ -4716,6 +4921,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-05T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Freiburg",
@@ -4739,6 +4945,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-05T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Hertha",
@@ -4762,6 +4969,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-10T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Werder Bremen",
@@ -4785,6 +4993,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-11T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Ein Frankfurt",
@@ -4808,6 +5017,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-11T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Mainz",
@@ -4831,6 +5041,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-11T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Hoffenheim",
@@ -4854,6 +5065,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-11T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Dortmund",
@@ -4877,6 +5089,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-11T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "FC Koln",
@@ -4900,6 +5113,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-11T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Wolfsburg",
@@ -4923,6 +5137,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-12T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "M'gladbach",
@@ -4946,6 +5161,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-12T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Augsburg",
@@ -4969,6 +5185,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-17T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Ingolstadt",
@@ -4992,6 +5209,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-18T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Freiburg",
@@ -5015,6 +5233,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-18T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Hamburg",
@@ -5038,6 +5257,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-18T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Hertha",
@@ -5061,6 +5281,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-18T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Leverkusen",
@@ -5084,6 +5305,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-18T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "RB Leipzig",
@@ -5107,6 +5329,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-18T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Darmstadt",
@@ -5130,6 +5353,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-19T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Schalke 04",
@@ -5153,6 +5377,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-19T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Bayern Munich",
@@ -5176,6 +5401,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-03-31T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Hoffenheim",
@@ -5199,6 +5425,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-01T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Augsburg",
@@ -5222,6 +5449,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-01T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "M'gladbach",
@@ -5245,6 +5473,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-01T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Werder Bremen",
@@ -5268,6 +5497,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-01T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "FC Koln",
@@ -5291,6 +5521,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-01T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Darmstadt",
@@ -5314,6 +5545,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-01T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Dortmund",
@@ -5337,6 +5569,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-02T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Mainz",
@@ -5360,6 +5593,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-02T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Wolfsburg",
@@ -5383,6 +5617,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-04T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Hamburg",
@@ -5406,6 +5641,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-04T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Ein Frankfurt",
@@ -5429,6 +5665,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-04T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Bayern Munich",
@@ -5452,6 +5689,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-04T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Schalke 04",
@@ -5475,6 +5713,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-05T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Ingolstadt",
@@ -5498,6 +5737,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-05T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Leverkusen",
@@ -5521,6 +5761,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-05T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "RB Leipzig",
@@ -5544,6 +5785,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-05T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Hertha",
@@ -5567,6 +5809,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-05T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Freiburg",
@@ -5590,6 +5833,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-07T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Werder Bremen",
@@ -5613,6 +5857,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-08T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Dortmund",
@@ -5636,6 +5881,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-08T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "M'gladbach",
@@ -5659,6 +5905,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-08T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Mainz",
@@ -5682,6 +5929,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-08T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Hoffenheim",
@@ -5705,6 +5953,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-08T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Leverkusen",
@@ -5728,6 +5977,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-08T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Wolfsburg",
@@ -5751,6 +6001,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-09T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Augsburg",
@@ -5774,6 +6025,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-09T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Darmstadt",
@@ -5797,6 +6049,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-15T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "FC Koln",
@@ -5820,6 +6073,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-15T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Ein Frankfurt",
@@ -5843,6 +6097,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-15T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "M'gladbach",
@@ -5866,6 +6121,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-15T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Bayern Munich",
@@ -5889,6 +6145,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-15T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Hertha",
@@ -5912,6 +6169,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-15T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Freiburg",
@@ -5935,6 +6193,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-15T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Ingolstadt",
@@ -5958,6 +6217,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-16T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Schalke 04",
@@ -5981,6 +6241,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-16T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Hamburg",
@@ -6004,6 +6265,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-21T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Hoffenheim",
@@ -6027,6 +6289,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-22T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Mainz",
@@ -6050,6 +6313,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-22T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Augsburg",
@@ -6073,6 +6337,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-22T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Darmstadt",
@@ -6096,6 +6361,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-22T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Wolfsburg",
@@ -6119,6 +6385,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-22T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Werder Bremen",
@@ -6142,6 +6409,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-22T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Dortmund",
@@ -6165,6 +6433,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-23T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Leverkusen",
@@ -6188,6 +6457,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-23T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "RB Leipzig",
@@ -6211,6 +6481,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-28T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Schalke 04",
@@ -6234,6 +6505,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-29T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Freiburg",
@@ -6257,6 +6529,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-29T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "FC Koln",
@@ -6280,6 +6553,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-29T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "M'gladbach",
@@ -6303,6 +6577,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-29T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Ingolstadt",
@@ -6326,6 +6601,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-29T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Hertha",
@@ -6349,6 +6625,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-29T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Bayern Munich",
@@ -6372,6 +6649,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-30T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Hamburg",
@@ -6395,6 +6673,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-04-30T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Ein Frankfurt",
@@ -6418,6 +6697,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-05T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Werder Bremen",
@@ -6441,6 +6721,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-06T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Darmstadt",
@@ -6464,6 +6745,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-06T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Hoffenheim",
@@ -6487,6 +6769,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-06T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Wolfsburg",
@@ -6510,6 +6793,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-06T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "RB Leipzig",
@@ -6533,6 +6817,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-06T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Leverkusen",
@@ -6556,6 +6841,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-06T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Augsburg",
@@ -6579,6 +6865,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-07T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Schalke 04",
@@ -6602,6 +6889,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-07T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Mainz",
@@ -6625,6 +6913,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-13T00:00:00.000Z",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Dortmund",
@@ -6648,6 +6937,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-13T00:00:00.000Z",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Hertha",
@@ -6671,6 +6961,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-13T00:00:00.000Z",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Ingolstadt",
@@ -6694,6 +6985,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-13T00:00:00.000Z",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "FC Koln",
@@ -6717,6 +7009,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-13T00:00:00.000Z",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Ein Frankfurt",
@@ -6740,6 +7033,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-13T00:00:00.000Z",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Bayern Munich",
@@ -6763,6 +7057,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-13T00:00:00.000Z",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Hamburg",
@@ -6786,6 +7081,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-13T00:00:00.000Z",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Hoffenheim",
@@ -6809,6 +7105,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-13T00:00:00.000Z",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "M'gladbach",
@@ -6832,6 +7129,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-20T00:00:00.000Z",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Freiburg",
@@ -6855,6 +7153,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-20T00:00:00.000Z",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Werder Bremen",
@@ -6878,6 +7177,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-20T00:00:00.000Z",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "RB Leipzig",
@@ -6901,6 +7201,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-20T00:00:00.000Z",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Mainz",
@@ -6924,6 +7225,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-20T00:00:00.000Z",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Wolfsburg",
@@ -6947,6 +7249,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-20T00:00:00.000Z",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Leverkusen",
@@ -6970,6 +7273,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-20T00:00:00.000Z",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Augsburg",
@@ -6993,6 +7297,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-20T00:00:00.000Z",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Schalke 04",
@@ -7016,6 +7321,7 @@
           },
           {
                     "Division": "D1",
+                    "Season": "16-17",
                     "Date": "2017-05-20T00:00:00.000Z",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Darmstadt",
