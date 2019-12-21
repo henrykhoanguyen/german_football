@@ -26,12 +26,14 @@ npm run client
 - For the data set check [README](server/_data) file in _data.
 
 ## Files Info
-1. csv2json.js 
-    - to parse csv files in data folder into json files.
-2. getTeams.js 
-    - to get teams and teams' information from specific season in selected json filed. Then, it will push to mongodb
-3. seeder.js
-4. server.js
+**1. csv2json.js**
+  - to parse csv files in data folder into json files.
+**2. getTeams.js**
+  - to get teams and teams' information from specific season in selected json filed. Then, it will push to mongodb
+**3. seeder.js**
+  - 
+**4. server.js**
+  - 
 
 ## App Info
 ### Author
