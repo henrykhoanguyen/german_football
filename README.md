@@ -1,7 +1,9 @@
 # German Football - Bundesliga
+
 This is a web page that displays League Table and Match Stats of 2 German football leagues (Bundesliga 1, 2)
 
 ## Quick Start
+
 ```bash
 # Install dependencies for server
 npm install
@@ -20,35 +22,41 @@ npm run client
 
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
+
 - Create a **config.env** file inside **server/config/** folder.
 - Add your **MONGO_URI** to **config.env** file.
 - Add **PORT=5000** inside **config.env** file.
-- For the data set check [README](server/_data) file in _data.
+- For the data set check [README](server/_data) file in \_data.
 
 ## Files Info
-**1. csv2json.js**
-Purpose: to parse csv files in data folder into json files.
-Utilization: 
 
-**2. getTeams.js**
-Purpose: to get teams and teams' information from specific season in selected json filed. Then, it will push to mongodb.
-Utilization: 
+**1. csv2json.js**<br/>
+Purpose: to parse csv files in data folder into json files.<br/>
+Utilization:
 
-**3. seeder.js**
-Purpose: 
-Utilization: 
+**2. seeder.js**<br/>
+Purpose: <br/>
+Utilization:
 
-**4. server.js**
-Purpose: 
-Utilization: 
+**3. getTeams.js**<br/>
+Purpose: to get teams and teams' information from specific season in selected json filed. Then, it will push to mongodb.<br/>
+Utilization:
+
+**4. server.js**<br/>
+Purpose: <br/>
+Utilization:
 
 ## App Info
+
 ### Author
+
 [Khoa Nguyen](https://henrykhoanguyen.github.io/)
 visit my website lol
 
 ### Version
+
 1.0.0
 
 ### License
+
 This project is licensed under the MIT License
