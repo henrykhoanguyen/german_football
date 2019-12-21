@@ -20,9 +20,9 @@ npm run client
 
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
-- Create a **config.env** file inside server/config/ folder.
-- Add your **MONGO_URI** to config.env file.
-- Add **PORT=5000** inside config.env file.
+- Create a **config.env** file inside **server/config/** folder.
+- Add your **MONGO_URI** to **config.env** file.
+- Add **PORT=5000** inside **config.env** file.
 - For the data set check [README](server/_data) file in _data.
 
 ## Files Info
