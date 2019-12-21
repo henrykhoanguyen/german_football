@@ -1,5 +1,5 @@
 # German Football - Bundesliga
-> This is a web page that displays League Table and Match Stats of 2 German football leagues (Bundesliga 1, 2)
+This is a web page that displays League Table and Match Stats of 2 German football leagues (Bundesliga 1, 2)
 
 ## Quick Start
 ```bash
@@ -20,10 +20,9 @@ npm run client
 
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
-Create a config.env file inside server/config/ folder
-Add your MONGO_URI to config.env file.
-Add "PORT=5000" inside config.env file.
-
+Create a config.env file inside server/config/ folder<br/>
+Add your MONGO_URI to config.env file.<br/>
+Add "PORT=5000" inside config.env file.<br/>
 For the data set check README file in _data
 
 ## Files Info
