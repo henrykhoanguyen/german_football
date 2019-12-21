@@ -4,8 +4,11 @@
   "description": "German football backend API",
   "main": "server.js",
   "scripts": {
+    "client-install": "npm install --prefix ../client",
     "start": "NODE_ENV=production node server",
-    "dev": "nodemon server"
+    "server": "nodemon server.js",
+    "client": "npm start --prefix ../client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "repository": {
     "type": "git",
@@ -19,6 +22,7 @@
   "homepage": "https://github.com/henrykhoanguyen/german_football#readme",
   "dependencies": {
     "colors": "^1.4.0",
+    "concurrently": "^5.0.2",
     "csv-parser": "^2.3.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
