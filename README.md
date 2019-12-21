@@ -23,7 +23,7 @@ npm run client
 - Create a config.env file inside server/config/ folder.
 - Add your MONGO_URI to config.env file.
 - Add "PORT=5000" inside config.env file.
-- For the data set check [README](server/_data/README.txt) file in _data.
+- For the data set check [README](server/_data) file in _data.
 
 ## Files Info
 1. csv2json.js
@@ -33,7 +33,7 @@ npm run client
 
 ## App Info
 ### Author
-[Khoa Nguyen] (https://henrykhoanguyen.github.io/)
+[Khoa Nguyen](https://henrykhoanguyen.github.io/)
 visit my website lol
 
 ### Version
