@@ -20,13 +20,16 @@ npm run client
 
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
-Create a config.env file inside server/config/ folder<br/>
-Add your MONGO_URI to config.env file.<br/>
-Add "PORT=5000" inside config.env file.<br/>
-For the data set check README file in _data
+- Create a config.env file inside server/config/ folder.
+- Add your MONGO_URI to config.env file.
+- Add "PORT=5000" inside config.env file.
+- For the data set check [README](server/_data/README.txt) file in _data.
 
 ## Files Info
-csv2json.js
+1. csv2json.js
+2. getTeams.js
+3. seeder.js
+4. server.js
 
 ## App Info
 ### Author
