@@ -1,11 +1,11 @@
 const express = require("express");
 const { getStanding } = require("../controllers/standings");
-// const Standings = require("../models/Standing");
+const Standings = require("../models/Standing");
 
-// const advancedResults = require("../middleware/advancedResults");
+const advancedResults = require("../middleware/advancedResults");
 
 const router = express.Router();
 
-router.route("/").get(getStanding);
+router.route("/").get(advancedResults(Standings, "standings"), getStanding);
 
 module.exports = router;
