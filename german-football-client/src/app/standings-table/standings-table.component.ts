@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { FootballService } from '../services/football.service';
 
 @Component({
   selector: 'app-standings-table',
@@ -7,7 +8,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class StandingsTableComponent implements OnInit {
 
-  constructor() { }
+  constructor(private footballService: FootballService) {
+    this.footballService.getStandingsTable().subscribe(values => console.log(values));
+  }
 
   ngOnInit() {
   }

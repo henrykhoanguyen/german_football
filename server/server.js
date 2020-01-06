@@ -3,6 +3,7 @@ const express = require("express");
 const dotenv = require("dotenv");
 const colors = require("colors");
 const errorHandler = require("./middleware/errors");
+const cors = require('cors');
 
 // Load env vars
 dotenv.config({ path: "./config/config.env" });
@@ -18,6 +19,7 @@ const app = express();
 
 // Body parser
 app.use(express.json());
+app.use(cors);
 
 // Mount routers
 app.use("/api/v1/matches", matches);
