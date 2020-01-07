@@ -7,12 +7,25 @@ import { FootballService } from '../services/football.service';
   styleUrls: ['./standings-table.component.css']
 })
 export class StandingsTableComponent implements OnInit {
-
+  private standings: [] = [];
+  private length: number;
+  private displayedColumns: string[] = ["Rank", "Name", "Wins", "Losses",
+  "Draws", "GoalsFor", "GoalsAgainst", "GoalsDifference", "Points"];
   constructor(private footballService: FootballService) {
-    this.footballService.getStandingsTable().subscribe(values => console.log(values));
   }
 
   ngOnInit() {
+    this.getStandings();
   }
 
+  getStandings():void{
+    this.footballService.getStandingsTable()
+    .subscribe(res => {
+
+      console.log(Object(res).data);
+      this.standings = Object(res).data;
+      this.length = Object(res).count;
+      // this.standings = [];
+    });
+  }
 }

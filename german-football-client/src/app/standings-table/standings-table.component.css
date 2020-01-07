@@ -1,0 +1,8 @@
+.align-right{
+  display: flex;
+  justify-content: flex-end;
+}
+
+mat-header-cell{
+  font-weight: 900;
+}

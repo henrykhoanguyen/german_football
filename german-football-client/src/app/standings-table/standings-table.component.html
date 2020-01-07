@@ -1,16 +1,61 @@
-<table mat-table class="mat-elevation-z8">
-  <ng-container matColumnDef="position">
-    <th mat-header-cell> No. </th>
-    <td mat-cell> 1 </td>
+<mat-table [dataSource]="standings" class="mat-elevation-z8" *ngIf="standings.length > 0">
+    <!-- Rank Column -->
+    <ng-container matColumnDef="Rank">
+      <mat-header-cell *matHeaderCellDef> Rank </mat-header-cell>
+      <mat-cell *matCellDef="let i = index"> {{ i + 1 }} </mat-cell>
+    </ng-container>
+
+    <!-- Name Column -->
+    <ng-container matColumnDef="Name">
+      <mat-header-cell *matHeaderCellDef> Club Name </mat-header-cell>
+      <mat-cell *matCellDef="let element"> {{ element.Name }} </mat-cell>
+    </ng-container>
+  <!-- Wins Column -->
+  <ng-container matColumnDef="Wins" >
+    <mat-header-cell *matHeaderCellDef class="align-right"> Wins </mat-header-cell>
+    <mat-cell *matCellDef="let element" class="align-right"> {{ element.Win }} </mat-cell>
   </ng-container>
 
-  <!-- Name Column -->
-  <ng-container matColumnDef="name">
-    <th mat-header-cell> Name </th>
-    <td mat-cell> Liverpool </td>
+  <!-- Losses Column -->
+  <ng-container matColumnDef="Losses">
+    <mat-header-cell *matHeaderCellDef class="align-right"> Losses </mat-header-cell>
+    <mat-cell *matCellDef="let element" class="align-right"> {{ element.Lost }} </mat-cell>
   </ng-container>
 
-  <tr mat-header-row></tr>
-  <tr mat-row></tr>
-</table>
-<!-- TODO: figure how to work this thing and connect to backend -->
+  <!-- Draws Column -->
+  <ng-container matColumnDef="Draws">
+    <mat-header-cell *matHeaderCellDef class="align-right"> Draws </mat-header-cell>
+    <mat-cell *matCellDef="let element" class="align-right"> {{ element.Draw }} </mat-cell>
+  </ng-container>
+
+  <!-- Goals For Column -->
+  <ng-container matColumnDef="GoalsFor">
+    <mat-header-cell *matHeaderCellDef class="align-right"> Goals For </mat-header-cell>
+    <mat-cell *matCellDef="let element" class="align-right"> {{ element.GoalsFor }} </mat-cell>
+  </ng-container>
+
+  <!-- Goals Against Column -->
+  <ng-container matColumnDef="GoalsAgainst">
+    <mat-header-cell *matHeaderCellDef class="align-right"> Goals Against </mat-header-cell>
+    <mat-cell *matCellDef="let element" class="align-right"> {{ element.GoalsAgainst }} </mat-cell>
+  </ng-container>
+
+  <!-- Goals Difference Column -->
+  <ng-container matColumnDef="GoalsDifference">
+    <mat-header-cell *matHeaderCellDef class="align-right"> Goals Difference </mat-header-cell>
+    <mat-cell *matCellDef="let element" class="align-right">
+      {{ element.GoalsDifference }}
+    </mat-cell>
+  </ng-container>
+
+  <!-- Points Column -->
+  <ng-container matColumnDef="Points">
+    <mat-header-cell *matHeaderCellDef class="align-right"> Points </mat-header-cell>
+    <mat-cell *matCellDef="let element" class="align-right"> {{ element.Points }} </mat-cell>
+  </ng-container>
+
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: displayedColumns"></mat-row>
+</mat-table>
+
+<p *ngIf="standings.length == 0">Nothing to see here...</p>

@@ -19,7 +19,7 @@ const app = express();
 
 // Body parser
 app.use(express.json());
-app.use(cors);
+app.use(cors());
 
 // Mount routers
 app.use("/api/v1/matches", matches);

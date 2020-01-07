@@ -14,7 +14,7 @@ export class FootballService {
   }
 
   getStandingsTable() {
-    console.log(this.http.get(this.footballUrl + 'standings').pipe(tap(_ => console.log('standings table fetched...'))));
+    // console.log(this.http.get(this.footballUrl + 'standings').pipe(tap(_ => console.log('standings table fetched...'))));
     return this.http
       .get(this.footballUrl + 'standings')
       .pipe(
