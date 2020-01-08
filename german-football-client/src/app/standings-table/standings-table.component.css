@@ -4,6 +4,12 @@
   margin-left: -25%;
 }
 
+.align-left{
+  display: flex;
+  justify-content: flex-start;
+  margin-left: -25%;
+}
+
 mat-header-cell{
   font-weight: 900;
 }
@@ -17,7 +23,19 @@ mat-table{
 }
 
 button {
-  width: 15%;
+  width: 20%;
   justify-content: center;
   display: flex;
+}
+
+@media screen and (max-width: 920px){
+  button {
+    width: 25%;
+    justify-content: center;
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 720px){
+
 }

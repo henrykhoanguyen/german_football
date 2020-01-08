@@ -16,9 +16,17 @@ export class FootballService {
   getStandingsTable(season: string) {
     // console.log(this.http.get(this.footballUrl + 'standings').pipe(tap(_ => console.log('standings table fetched...'))));
     return this.http
-      .get(this.footballUrl + 'standings/')
+      .get(this.footballUrl + 'standings/' + season)
       .pipe(
         tap(_ => console.log('standings table fetched...'))
+      );
+  }
+
+  getSeasons(){
+    return this.http
+      .get(this.footballUrl + 'standings/seasons')
+      .pipe(
+        tap(_ => console.log('all seasons fetched...'))
       );
   }
 }

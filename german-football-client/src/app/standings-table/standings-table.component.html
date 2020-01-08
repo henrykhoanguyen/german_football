@@ -1,20 +1,24 @@
-<button mat-flat-button [matMenuTriggerFor]="menu" color="warn">Season</button>
+<button mat-raised-button [matMenuTriggerFor]="menu" color="warn" [matMenuTriggerData]="seasons">{{ inputSeason }} Season</button>
 <mat-menu #menu="matMenu">
-  <button mat-menu-item>Item 1</button>
-  <button mat-menu-item>Item 2</button>
+  <ng-template matMenuContent>
+    <button mat-menu-item (click)="setSeason(seasons[2])">{{ seasons[2] }}</button>
+    <button mat-menu-item (click)="setSeason(seasons[1])">{{ seasons[1] }}</button>
+    <button mat-menu-item (click)="setSeason(seasons[0])">{{ seasons[0] }}</button>
+  </ng-template>
 </mat-menu>
 <!-- <mat-divider></mat-divider> -->
 <mat-table [dataSource]="standings" class="mat-elevation-z8" *ngIf="standings.length > 0">
 
     <!-- Rank Column -->
-    <!-- <ng-container matColumnDef="Rank">
-      <mat-header-cell *matHeaderCellDef> Rank </mat-header-cell>
-    </ng-container> -->
+    <ng-container matColumnDef="Rank">
+      <mat-header-cell *matHeaderCellDef> No. </mat-header-cell>
+      <mat-cell *matCellDef="let i = index">{{ i + 1 }}</mat-cell>
+    </ng-container>
 
     <!-- Name Column -->
     <ng-container matColumnDef="Name">
-      <mat-header-cell *matHeaderCellDef> Club </mat-header-cell>
-      <mat-cell *matCellDef="let element; let i = index">{{ i + 1 }} &nbsp;&nbsp;&nbsp;&nbsp; {{ element.Name }} </mat-cell>
+      <mat-header-cell *matHeaderCellDef class="align-left">Club </mat-header-cell>
+      <mat-cell *matCellDef="let element;" class="align-left">{{ element.Name }} </mat-cell>
     </ng-container>
   <!-- Wins Column -->
   <ng-container matColumnDef="Wins" >
