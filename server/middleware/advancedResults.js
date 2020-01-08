@@ -2,9 +2,10 @@ const advancedResults = (model, populate) => async (req, res, next) => {
   // const reqQuery = {...req.query };
   let query;
 
-  if (req.query.Season === undefined || req.query.Season === null) {
-    req.query.Season = "17-18"; // Set season to the latest season
-  }
+  // shouldn't hard code season.
+  // if (req.query.Season === undefined || req.query.Season === null) {
+  //   req.query.Season = "17-18"; // Set season to the latest season
+  // }
 
   // Copy req.query
   const reqQuery = { ...req.query };

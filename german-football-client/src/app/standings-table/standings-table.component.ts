@@ -9,8 +9,9 @@ import { FootballService } from '../services/football.service';
 export class StandingsTableComponent implements OnInit {
   private standings: [] = [];
   private length: number;
-  private displayedColumns: string[] = ["Rank", "Name", "Wins", "Losses",
+  private displayedColumns: string[] = ["Name", "Wins", "Losses",
   "Draws", "GoalsFor", "GoalsAgainst", "GoalsDifference", "Points"];
+
   constructor(private footballService: FootballService) {
   }
 
@@ -19,7 +20,8 @@ export class StandingsTableComponent implements OnInit {
   }
 
   getStandings():void{
-    this.footballService.getStandingsTable()
+
+    this.footballService.getStandingsTable("")
     .subscribe(res => {
 
       console.log(Object(res).data);

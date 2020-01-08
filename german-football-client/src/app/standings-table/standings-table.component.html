@@ -1,48 +1,54 @@
+<button mat-flat-button [matMenuTriggerFor]="menu" color="warn">Season</button>
+<mat-menu #menu="matMenu">
+  <button mat-menu-item>Item 1</button>
+  <button mat-menu-item>Item 2</button>
+</mat-menu>
+<!-- <mat-divider></mat-divider> -->
 <mat-table [dataSource]="standings" class="mat-elevation-z8" *ngIf="standings.length > 0">
+
     <!-- Rank Column -->
-    <ng-container matColumnDef="Rank">
+    <!-- <ng-container matColumnDef="Rank">
       <mat-header-cell *matHeaderCellDef> Rank </mat-header-cell>
-      <mat-cell *matCellDef="let i = index"> {{ i + 1 }} </mat-cell>
-    </ng-container>
+    </ng-container> -->
 
     <!-- Name Column -->
     <ng-container matColumnDef="Name">
-      <mat-header-cell *matHeaderCellDef> Club Name </mat-header-cell>
-      <mat-cell *matCellDef="let element"> {{ element.Name }} </mat-cell>
+      <mat-header-cell *matHeaderCellDef> Club </mat-header-cell>
+      <mat-cell *matCellDef="let element; let i = index">{{ i + 1 }} &nbsp;&nbsp;&nbsp;&nbsp; {{ element.Name }} </mat-cell>
     </ng-container>
   <!-- Wins Column -->
   <ng-container matColumnDef="Wins" >
-    <mat-header-cell *matHeaderCellDef class="align-right"> Wins </mat-header-cell>
+    <mat-header-cell *matHeaderCellDef class="align-right"> W </mat-header-cell>
     <mat-cell *matCellDef="let element" class="align-right"> {{ element.Win }} </mat-cell>
   </ng-container>
 
   <!-- Losses Column -->
   <ng-container matColumnDef="Losses">
-    <mat-header-cell *matHeaderCellDef class="align-right"> Losses </mat-header-cell>
+    <mat-header-cell *matHeaderCellDef class="align-right"> L </mat-header-cell>
     <mat-cell *matCellDef="let element" class="align-right"> {{ element.Lost }} </mat-cell>
   </ng-container>
 
   <!-- Draws Column -->
   <ng-container matColumnDef="Draws">
-    <mat-header-cell *matHeaderCellDef class="align-right"> Draws </mat-header-cell>
+    <mat-header-cell *matHeaderCellDef class="align-right"> D </mat-header-cell>
     <mat-cell *matCellDef="let element" class="align-right"> {{ element.Draw }} </mat-cell>
   </ng-container>
 
   <!-- Goals For Column -->
   <ng-container matColumnDef="GoalsFor">
-    <mat-header-cell *matHeaderCellDef class="align-right"> Goals For </mat-header-cell>
+    <mat-header-cell *matHeaderCellDef class="align-right"> GF </mat-header-cell>
     <mat-cell *matCellDef="let element" class="align-right"> {{ element.GoalsFor }} </mat-cell>
   </ng-container>
 
   <!-- Goals Against Column -->
   <ng-container matColumnDef="GoalsAgainst">
-    <mat-header-cell *matHeaderCellDef class="align-right"> Goals Against </mat-header-cell>
+    <mat-header-cell *matHeaderCellDef class="align-right"> GA </mat-header-cell>
     <mat-cell *matCellDef="let element" class="align-right"> {{ element.GoalsAgainst }} </mat-cell>
   </ng-container>
 
   <!-- Goals Difference Column -->
   <ng-container matColumnDef="GoalsDifference">
-    <mat-header-cell *matHeaderCellDef class="align-right"> Goals Difference </mat-header-cell>
+    <mat-header-cell *matHeaderCellDef class="align-right"> GD </mat-header-cell>
     <mat-cell *matCellDef="let element" class="align-right">
       {{ element.GoalsDifference }}
     </mat-cell>
@@ -50,7 +56,7 @@
 
   <!-- Points Column -->
   <ng-container matColumnDef="Points">
-    <mat-header-cell *matHeaderCellDef class="align-right"> Points </mat-header-cell>
+    <mat-header-cell *matHeaderCellDef class="align-right"> Pts </mat-header-cell>
     <mat-cell *matCellDef="let element" class="align-right"> {{ element.Points }} </mat-cell>
   </ng-container>
 

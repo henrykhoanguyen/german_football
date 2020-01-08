@@ -13,10 +13,10 @@ export class FootballService {
     console.log('Football service initialized...');
   }
 
-  getStandingsTable() {
+  getStandingsTable(season: string) {
     // console.log(this.http.get(this.footballUrl + 'standings').pipe(tap(_ => console.log('standings table fetched...'))));
     return this.http
-      .get(this.footballUrl + 'standings')
+      .get(this.footballUrl + 'standings/')
       .pipe(
         tap(_ => console.log('standings table fetched...'))
       );

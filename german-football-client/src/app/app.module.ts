@@ -1,6 +1,15 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { MatToolbarModule, MatTabsModule, MatListModule, MatTableModule } from '@angular/material';
+import {
+  MatToolbarModule,
+  MatTabsModule,
+  MatListModule,
+  MatTableModule,
+  MatMenuModule,
+  MatButtonModule
+} from '@angular/material';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+
 import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -24,9 +33,12 @@ import { StandingsTableComponent } from './standings-table/standings-table.compo
     MatTabsModule,
     MatTableModule,
     MatListModule,
-    HttpClientModule
+    HttpClientModule,
+    FontAwesomeModule,
+    MatMenuModule,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {}

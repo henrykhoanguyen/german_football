@@ -1,8 +1,23 @@
 .align-right{
   display: flex;
   justify-content: flex-end;
+  margin-left: -25%;
 }
 
 mat-header-cell{
   font-weight: 900;
+}
+
+mat-menu {
+  padding: 1rem auto;
+}
+
+mat-table{
+  box-shadow: none;
+}
+
+button {
+  width: 15%;
+  justify-content: center;
+  display: flex;
 }
