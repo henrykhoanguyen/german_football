@@ -22,7 +22,7 @@ export class FootballService {
       );
   }
 
-  getSeasons(){
+  getSeasons() {
     return this.http
       .get(this.footballUrl + 'standings/seasons')
       .pipe(

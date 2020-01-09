@@ -10,6 +10,10 @@
   margin-left: -25%;
 }
 
+.align-text {
+  text-align: center;
+}
+
 mat-header-cell{
   font-weight: 900;
 }

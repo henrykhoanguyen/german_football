@@ -17,13 +17,17 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './header/header.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { StandingsTableComponent } from './standings-table/standings-table.component';
+import { MatchesTableComponent } from './matches-table/matches-table.component';
+import { SeasonsButtonComponent } from './seasons-button/seasons-button.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     DashboardComponent,
-    StandingsTableComponent
+    StandingsTableComponent,
+    MatchesTableComponent,
+    SeasonsButtonComponent
   ],
   imports: [
     BrowserModule,
@@ -37,6 +41,7 @@ import { StandingsTableComponent } from './standings-table/standings-table.compo
     FontAwesomeModule,
     MatMenuModule,
     MatButtonModule
+    // SeasonsButtonComponent
   ],
   providers: [],
   bootstrap: [AppComponent]
