@@ -2,7 +2,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-08-26T00:00:00.000Z",
+                    "Date": "2016-08-26",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "H",
@@ -26,7 +26,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-08-27T00:00:00.000Z",
+                    "Date": "2016-08-27",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "A",
@@ -50,7 +50,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-08-27T00:00:00.000Z",
+                    "Date": "2016-08-27",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "H",
@@ -74,7 +74,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-08-27T00:00:00.000Z",
+                    "Date": "2016-08-27",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "H",
@@ -98,7 +98,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-08-27T00:00:00.000Z",
+                    "Date": "2016-08-27",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -122,7 +122,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-08-27T00:00:00.000Z",
+                    "Date": "2016-08-27",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "D",
@@ -146,7 +146,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-08-27T00:00:00.000Z",
+                    "Date": "2016-08-27",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "H",
@@ -170,7 +170,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-08-28T00:00:00.000Z",
+                    "Date": "2016-08-28",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "H",
@@ -194,7 +194,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-08-28T00:00:00.000Z",
+                    "Date": "2016-08-28",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "D",
@@ -218,7 +218,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-09T00:00:00.000Z",
+                    "Date": "2016-09-09",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -242,7 +242,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-10T00:00:00.000Z",
+                    "Date": "2016-09-10",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "H",
@@ -266,7 +266,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-10T00:00:00.000Z",
+                    "Date": "2016-09-10",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "H",
@@ -290,7 +290,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-10T00:00:00.000Z",
+                    "Date": "2016-09-10",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "A",
@@ -314,7 +314,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-10T00:00:00.000Z",
+                    "Date": "2016-09-10",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "H",
@@ -338,7 +338,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-10T00:00:00.000Z",
+                    "Date": "2016-09-10",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "H",
@@ -362,7 +362,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-10T00:00:00.000Z",
+                    "Date": "2016-09-10",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "D",
@@ -386,7 +386,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-11T00:00:00.000Z",
+                    "Date": "2016-09-11",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "D",
@@ -410,7 +410,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-11T00:00:00.000Z",
+                    "Date": "2016-09-11",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "A",
@@ -434,7 +434,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-16T00:00:00.000Z",
+                    "Date": "2016-09-16",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "H",
@@ -458,7 +458,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-17T00:00:00.000Z",
+                    "Date": "2016-09-17",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "H",
@@ -482,7 +482,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-17T00:00:00.000Z",
+                    "Date": "2016-09-17",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -506,7 +506,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-17T00:00:00.000Z",
+                    "Date": "2016-09-17",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "H",
@@ -530,7 +530,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-17T00:00:00.000Z",
+                    "Date": "2016-09-17",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "A",
@@ -554,7 +554,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-17T00:00:00.000Z",
+                    "Date": "2016-09-17",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "D",
@@ -578,7 +578,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-17T00:00:00.000Z",
+                    "Date": "2016-09-17",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "H",
@@ -602,7 +602,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-18T00:00:00.000Z",
+                    "Date": "2016-09-18",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "A",
@@ -626,7 +626,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-18T00:00:00.000Z",
+                    "Date": "2016-09-18",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "H",
@@ -650,7 +650,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-20T00:00:00.000Z",
+                    "Date": "2016-09-20",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "D",
@@ -674,7 +674,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-20T00:00:00.000Z",
+                    "Date": "2016-09-20",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "H",
@@ -698,7 +698,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-20T00:00:00.000Z",
+                    "Date": "2016-09-20",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "A",
@@ -722,7 +722,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-20T00:00:00.000Z",
+                    "Date": "2016-09-20",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "A",
@@ -746,7 +746,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-21T00:00:00.000Z",
+                    "Date": "2016-09-21",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "H",
@@ -770,7 +770,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-21T00:00:00.000Z",
+                    "Date": "2016-09-21",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "D",
@@ -794,7 +794,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-21T00:00:00.000Z",
+                    "Date": "2016-09-21",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "D",
@@ -818,7 +818,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-21T00:00:00.000Z",
+                    "Date": "2016-09-21",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "A",
@@ -842,7 +842,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-21T00:00:00.000Z",
+                    "Date": "2016-09-21",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "A",
@@ -866,7 +866,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-23T00:00:00.000Z",
+                    "Date": "2016-09-23",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "H",
@@ -890,7 +890,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-24T00:00:00.000Z",
+                    "Date": "2016-09-24",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -914,7 +914,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-24T00:00:00.000Z",
+                    "Date": "2016-09-24",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "D",
@@ -938,7 +938,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-24T00:00:00.000Z",
+                    "Date": "2016-09-24",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -962,7 +962,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-24T00:00:00.000Z",
+                    "Date": "2016-09-24",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "A",
@@ -986,7 +986,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-24T00:00:00.000Z",
+                    "Date": "2016-09-24",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "H",
@@ -1010,7 +1010,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-24T00:00:00.000Z",
+                    "Date": "2016-09-24",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "H",
@@ -1034,7 +1034,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-25T00:00:00.000Z",
+                    "Date": "2016-09-25",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "D",
@@ -1058,7 +1058,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-25T00:00:00.000Z",
+                    "Date": "2016-09-25",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "H",
@@ -1082,7 +1082,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-09-30T00:00:00.000Z",
+                    "Date": "2016-09-30",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "H",
@@ -1106,7 +1106,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-01T00:00:00.000Z",
+                    "Date": "2016-10-01",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "D",
@@ -1130,7 +1130,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-01T00:00:00.000Z",
+                    "Date": "2016-10-01",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "D",
@@ -1154,7 +1154,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-01T00:00:00.000Z",
+                    "Date": "2016-10-01",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "H",
@@ -1178,7 +1178,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-01T00:00:00.000Z",
+                    "Date": "2016-10-01",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "H",
@@ -1202,7 +1202,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-01T00:00:00.000Z",
+                    "Date": "2016-10-01",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "A",
@@ -1226,7 +1226,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-01T00:00:00.000Z",
+                    "Date": "2016-10-01",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "H",
@@ -1250,7 +1250,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-02T00:00:00.000Z",
+                    "Date": "2016-10-02",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "H",
@@ -1274,7 +1274,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-02T00:00:00.000Z",
+                    "Date": "2016-10-02",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "D",
@@ -1298,7 +1298,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-14T00:00:00.000Z",
+                    "Date": "2016-10-14",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "D",
@@ -1322,7 +1322,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-15T00:00:00.000Z",
+                    "Date": "2016-10-15",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "D",
@@ -1346,7 +1346,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-15T00:00:00.000Z",
+                    "Date": "2016-10-15",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "D",
@@ -1370,7 +1370,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-15T00:00:00.000Z",
+                    "Date": "2016-10-15",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "H",
@@ -1394,7 +1394,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-15T00:00:00.000Z",
+                    "Date": "2016-10-15",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "H",
@@ -1418,7 +1418,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-15T00:00:00.000Z",
+                    "Date": "2016-10-15",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "D",
@@ -1442,7 +1442,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-15T00:00:00.000Z",
+                    "Date": "2016-10-15",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "H",
@@ -1466,7 +1466,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-16T00:00:00.000Z",
+                    "Date": "2016-10-16",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -1490,7 +1490,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-16T00:00:00.000Z",
+                    "Date": "2016-10-16",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "A",
@@ -1514,7 +1514,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-21T00:00:00.000Z",
+                    "Date": "2016-10-21",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "A",
@@ -1538,7 +1538,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-22T00:00:00.000Z",
+                    "Date": "2016-10-22",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "H",
@@ -1562,7 +1562,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-22T00:00:00.000Z",
+                    "Date": "2016-10-22",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "H",
@@ -1586,7 +1586,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-22T00:00:00.000Z",
+                    "Date": "2016-10-22",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "H",
@@ -1610,7 +1610,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-22T00:00:00.000Z",
+                    "Date": "2016-10-22",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "H",
@@ -1634,7 +1634,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-22T00:00:00.000Z",
+                    "Date": "2016-10-22",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "D",
@@ -1658,7 +1658,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-22T00:00:00.000Z",
+                    "Date": "2016-10-22",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "A",
@@ -1682,7 +1682,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-23T00:00:00.000Z",
+                    "Date": "2016-10-23",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "H",
@@ -1706,7 +1706,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-23T00:00:00.000Z",
+                    "Date": "2016-10-23",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "H",
@@ -1730,7 +1730,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-28T00:00:00.000Z",
+                    "Date": "2016-10-28",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "D",
@@ -1754,7 +1754,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-29T00:00:00.000Z",
+                    "Date": "2016-10-29",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -1778,7 +1778,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-29T00:00:00.000Z",
+                    "Date": "2016-10-29",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "A",
@@ -1802,7 +1802,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-29T00:00:00.000Z",
+                    "Date": "2016-10-29",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "D",
@@ -1826,7 +1826,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-29T00:00:00.000Z",
+                    "Date": "2016-10-29",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "H",
@@ -1850,7 +1850,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-29T00:00:00.000Z",
+                    "Date": "2016-10-29",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "A",
@@ -1874,7 +1874,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-29T00:00:00.000Z",
+                    "Date": "2016-10-29",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "A",
@@ -1898,7 +1898,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-30T00:00:00.000Z",
+                    "Date": "2016-10-30",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "H",
@@ -1922,7 +1922,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-10-30T00:00:00.000Z",
+                    "Date": "2016-10-30",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "H",
@@ -1946,7 +1946,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-04T00:00:00.000Z",
+                    "Date": "2016-11-04",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "H",
@@ -1970,7 +1970,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-05T00:00:00.000Z",
+                    "Date": "2016-11-05",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "D",
@@ -1994,7 +1994,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-05T00:00:00.000Z",
+                    "Date": "2016-11-05",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "H",
@@ -2018,7 +2018,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-05T00:00:00.000Z",
+                    "Date": "2016-11-05",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "A",
@@ -2042,7 +2042,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-05T00:00:00.000Z",
+                    "Date": "2016-11-05",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "A",
@@ -2066,7 +2066,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-05T00:00:00.000Z",
+                    "Date": "2016-11-05",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "A",
@@ -2090,7 +2090,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-05T00:00:00.000Z",
+                    "Date": "2016-11-05",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -2114,7 +2114,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-06T00:00:00.000Z",
+                    "Date": "2016-11-06",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "H",
@@ -2138,7 +2138,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-06T00:00:00.000Z",
+                    "Date": "2016-11-06",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "H",
@@ -2162,7 +2162,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-18T00:00:00.000Z",
+                    "Date": "2016-11-18",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "A",
@@ -2186,7 +2186,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-19T00:00:00.000Z",
+                    "Date": "2016-11-19",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "D",
@@ -2210,7 +2210,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-19T00:00:00.000Z",
+                    "Date": "2016-11-19",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "A",
@@ -2234,7 +2234,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-19T00:00:00.000Z",
+                    "Date": "2016-11-19",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "H",
@@ -2258,7 +2258,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-19T00:00:00.000Z",
+                    "Date": "2016-11-19",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "H",
@@ -2282,7 +2282,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-19T00:00:00.000Z",
+                    "Date": "2016-11-19",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "A",
@@ -2306,7 +2306,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-19T00:00:00.000Z",
+                    "Date": "2016-11-19",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "A",
@@ -2330,7 +2330,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-20T00:00:00.000Z",
+                    "Date": "2016-11-20",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "D",
@@ -2354,7 +2354,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-20T00:00:00.000Z",
+                    "Date": "2016-11-20",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "A",
@@ -2378,7 +2378,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-25T00:00:00.000Z",
+                    "Date": "2016-11-25",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "A",
@@ -2402,7 +2402,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-26T00:00:00.000Z",
+                    "Date": "2016-11-26",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "H",
@@ -2426,7 +2426,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-26T00:00:00.000Z",
+                    "Date": "2016-11-26",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "H",
@@ -2450,7 +2450,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-26T00:00:00.000Z",
+                    "Date": "2016-11-26",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "D",
@@ -2474,7 +2474,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-26T00:00:00.000Z",
+                    "Date": "2016-11-26",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "D",
@@ -2498,7 +2498,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-26T00:00:00.000Z",
+                    "Date": "2016-11-26",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "D",
@@ -2522,7 +2522,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-26T00:00:00.000Z",
+                    "Date": "2016-11-26",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "D",
@@ -2546,7 +2546,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-27T00:00:00.000Z",
+                    "Date": "2016-11-27",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "H",
@@ -2570,7 +2570,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-11-27T00:00:00.000Z",
+                    "Date": "2016-11-27",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -2594,7 +2594,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-02T00:00:00.000Z",
+                    "Date": "2016-12-02",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -2618,7 +2618,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-03T00:00:00.000Z",
+                    "Date": "2016-12-03",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "H",
@@ -2642,7 +2642,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-03T00:00:00.000Z",
+                    "Date": "2016-12-03",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "H",
@@ -2666,7 +2666,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-03T00:00:00.000Z",
+                    "Date": "2016-12-03",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "D",
@@ -2690,7 +2690,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-03T00:00:00.000Z",
+                    "Date": "2016-12-03",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "H",
@@ -2714,7 +2714,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-03T00:00:00.000Z",
+                    "Date": "2016-12-03",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "H",
@@ -2738,7 +2738,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-03T00:00:00.000Z",
+                    "Date": "2016-12-03",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "A",
@@ -2762,7 +2762,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-04T00:00:00.000Z",
+                    "Date": "2016-12-04",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "D",
@@ -2786,7 +2786,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-04T00:00:00.000Z",
+                    "Date": "2016-12-04",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "A",
@@ -2810,7 +2810,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-09T00:00:00.000Z",
+                    "Date": "2016-12-09",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "D",
@@ -2834,7 +2834,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-10T00:00:00.000Z",
+                    "Date": "2016-12-10",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "H",
@@ -2858,7 +2858,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-10T00:00:00.000Z",
+                    "Date": "2016-12-10",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "D",
@@ -2882,7 +2882,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-10T00:00:00.000Z",
+                    "Date": "2016-12-10",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -2906,7 +2906,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-10T00:00:00.000Z",
+                    "Date": "2016-12-10",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "H",
@@ -2930,7 +2930,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-10T00:00:00.000Z",
+                    "Date": "2016-12-10",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "A",
@@ -2954,7 +2954,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-10T00:00:00.000Z",
+                    "Date": "2016-12-10",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "H",
@@ -2978,7 +2978,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-11T00:00:00.000Z",
+                    "Date": "2016-12-11",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "H",
@@ -3002,7 +3002,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-11T00:00:00.000Z",
+                    "Date": "2016-12-11",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "A",
@@ -3026,7 +3026,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-16T00:00:00.000Z",
+                    "Date": "2016-12-16",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "D",
@@ -3050,7 +3050,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-17T00:00:00.000Z",
+                    "Date": "2016-12-17",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "H",
@@ -3074,7 +3074,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-17T00:00:00.000Z",
+                    "Date": "2016-12-17",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "H",
@@ -3098,7 +3098,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-17T00:00:00.000Z",
+                    "Date": "2016-12-17",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "H",
@@ -3122,7 +3122,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-17T00:00:00.000Z",
+                    "Date": "2016-12-17",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "D",
@@ -3146,7 +3146,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-17T00:00:00.000Z",
+                    "Date": "2016-12-17",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "D",
@@ -3170,7 +3170,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-17T00:00:00.000Z",
+                    "Date": "2016-12-17",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "H",
@@ -3194,7 +3194,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-18T00:00:00.000Z",
+                    "Date": "2016-12-18",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -3218,7 +3218,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-18T00:00:00.000Z",
+                    "Date": "2016-12-18",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "A",
@@ -3242,7 +3242,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-20T00:00:00.000Z",
+                    "Date": "2016-12-20",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "D",
@@ -3266,7 +3266,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-20T00:00:00.000Z",
+                    "Date": "2016-12-20",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "H",
@@ -3290,7 +3290,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-20T00:00:00.000Z",
+                    "Date": "2016-12-20",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "H",
@@ -3314,7 +3314,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-20T00:00:00.000Z",
+                    "Date": "2016-12-20",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "A",
@@ -3338,7 +3338,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-21T00:00:00.000Z",
+                    "Date": "2016-12-21",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "H",
@@ -3362,7 +3362,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-21T00:00:00.000Z",
+                    "Date": "2016-12-21",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "D",
@@ -3386,7 +3386,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-21T00:00:00.000Z",
+                    "Date": "2016-12-21",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -3410,7 +3410,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-21T00:00:00.000Z",
+                    "Date": "2016-12-21",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "D",
@@ -3434,7 +3434,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2016-12-21T00:00:00.000Z",
+                    "Date": "2016-12-21",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "A",
@@ -3458,7 +3458,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-20T00:00:00.000Z",
+                    "Date": "2017-01-20",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -3482,7 +3482,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-21T00:00:00.000Z",
+                    "Date": "2017-01-21",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "A",
@@ -3506,7 +3506,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-21T00:00:00.000Z",
+                    "Date": "2017-01-21",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "D",
@@ -3530,7 +3530,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-21T00:00:00.000Z",
+                    "Date": "2017-01-21",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "H",
@@ -3554,7 +3554,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-21T00:00:00.000Z",
+                    "Date": "2017-01-21",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "H",
@@ -3578,7 +3578,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-21T00:00:00.000Z",
+                    "Date": "2017-01-21",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "A",
@@ -3602,7 +3602,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-21T00:00:00.000Z",
+                    "Date": "2017-01-21",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "H",
@@ -3626,7 +3626,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-22T00:00:00.000Z",
+                    "Date": "2017-01-22",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "H",
@@ -3650,7 +3650,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-22T00:00:00.000Z",
+                    "Date": "2017-01-22",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "D",
@@ -3674,7 +3674,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-27T00:00:00.000Z",
+                    "Date": "2017-01-27",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "A",
@@ -3698,7 +3698,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-28T00:00:00.000Z",
+                    "Date": "2017-01-28",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "A",
@@ -3722,7 +3722,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-28T00:00:00.000Z",
+                    "Date": "2017-01-28",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "H",
@@ -3746,7 +3746,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-28T00:00:00.000Z",
+                    "Date": "2017-01-28",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "A",
@@ -3770,7 +3770,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-28T00:00:00.000Z",
+                    "Date": "2017-01-28",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "H",
@@ -3794,7 +3794,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-28T00:00:00.000Z",
+                    "Date": "2017-01-28",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -3818,7 +3818,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-28T00:00:00.000Z",
+                    "Date": "2017-01-28",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "A",
@@ -3842,7 +3842,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-29T00:00:00.000Z",
+                    "Date": "2017-01-29",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "H",
@@ -3866,7 +3866,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-01-29T00:00:00.000Z",
+                    "Date": "2017-01-29",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "D",
@@ -3890,7 +3890,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-03T00:00:00.000Z",
+                    "Date": "2017-02-03",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "H",
@@ -3914,7 +3914,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-04T00:00:00.000Z",
+                    "Date": "2017-02-04",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "D",
@@ -3938,7 +3938,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-04T00:00:00.000Z",
+                    "Date": "2017-02-04",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "H",
@@ -3962,7 +3962,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-04T00:00:00.000Z",
+                    "Date": "2017-02-04",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "H",
@@ -3986,7 +3986,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-04T00:00:00.000Z",
+                    "Date": "2017-02-04",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "H",
@@ -4010,7 +4010,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-04T00:00:00.000Z",
+                    "Date": "2017-02-04",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "H",
@@ -4034,7 +4034,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-04T00:00:00.000Z",
+                    "Date": "2017-02-04",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "H",
@@ -4058,7 +4058,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-05T00:00:00.000Z",
+                    "Date": "2017-02-05",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "H",
@@ -4082,7 +4082,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-05T00:00:00.000Z",
+                    "Date": "2017-02-05",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -4106,7 +4106,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-10T00:00:00.000Z",
+                    "Date": "2017-02-10",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "H",
@@ -4130,7 +4130,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-11T00:00:00.000Z",
+                    "Date": "2017-02-11",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "H",
@@ -4154,7 +4154,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-11T00:00:00.000Z",
+                    "Date": "2017-02-11",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -4178,7 +4178,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-11T00:00:00.000Z",
+                    "Date": "2017-02-11",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "H",
@@ -4202,7 +4202,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-11T00:00:00.000Z",
+                    "Date": "2017-02-11",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "A",
@@ -4226,7 +4226,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-11T00:00:00.000Z",
+                    "Date": "2017-02-11",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "H",
@@ -4250,7 +4250,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-11T00:00:00.000Z",
+                    "Date": "2017-02-11",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "A",
@@ -4274,7 +4274,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-12T00:00:00.000Z",
+                    "Date": "2017-02-12",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "H",
@@ -4298,7 +4298,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-12T00:00:00.000Z",
+                    "Date": "2017-02-12",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "H",
@@ -4322,7 +4322,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-17T00:00:00.000Z",
+                    "Date": "2017-02-17",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "A",
@@ -4346,7 +4346,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-18T00:00:00.000Z",
+                    "Date": "2017-02-18",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "H",
@@ -4370,7 +4370,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-18T00:00:00.000Z",
+                    "Date": "2017-02-18",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "A",
@@ -4394,7 +4394,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-18T00:00:00.000Z",
+                    "Date": "2017-02-18",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "D",
@@ -4418,7 +4418,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-18T00:00:00.000Z",
+                    "Date": "2017-02-18",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "D",
@@ -4442,7 +4442,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-18T00:00:00.000Z",
+                    "Date": "2017-02-18",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -4466,7 +4466,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-18T00:00:00.000Z",
+                    "Date": "2017-02-18",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "A",
@@ -4490,7 +4490,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-19T00:00:00.000Z",
+                    "Date": "2017-02-19",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "D",
@@ -4514,7 +4514,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-19T00:00:00.000Z",
+                    "Date": "2017-02-19",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "A",
@@ -4538,7 +4538,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-24T00:00:00.000Z",
+                    "Date": "2017-02-24",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "A",
@@ -4562,7 +4562,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-25T00:00:00.000Z",
+                    "Date": "2017-02-25",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "H",
@@ -4586,7 +4586,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-25T00:00:00.000Z",
+                    "Date": "2017-02-25",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "A",
@@ -4610,7 +4610,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-25T00:00:00.000Z",
+                    "Date": "2017-02-25",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "A",
@@ -4634,7 +4634,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-25T00:00:00.000Z",
+                    "Date": "2017-02-25",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "H",
@@ -4658,7 +4658,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-25T00:00:00.000Z",
+                    "Date": "2017-02-25",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "A",
@@ -4682,7 +4682,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-25T00:00:00.000Z",
+                    "Date": "2017-02-25",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "H",
@@ -4706,7 +4706,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-26T00:00:00.000Z",
+                    "Date": "2017-02-26",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "A",
@@ -4730,7 +4730,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-02-26T00:00:00.000Z",
+                    "Date": "2017-02-26",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "D",
@@ -4754,7 +4754,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-03T00:00:00.000Z",
+                    "Date": "2017-03-03",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "D",
@@ -4778,7 +4778,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-04T00:00:00.000Z",
+                    "Date": "2017-03-04",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "H",
@@ -4802,7 +4802,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-04T00:00:00.000Z",
+                    "Date": "2017-03-04",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -4826,7 +4826,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-04T00:00:00.000Z",
+                    "Date": "2017-03-04",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "H",
@@ -4850,7 +4850,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-04T00:00:00.000Z",
+                    "Date": "2017-03-04",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "D",
@@ -4874,7 +4874,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-04T00:00:00.000Z",
+                    "Date": "2017-03-04",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "H",
@@ -4898,7 +4898,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-04T00:00:00.000Z",
+                    "Date": "2017-03-04",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -4922,7 +4922,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-05T00:00:00.000Z",
+                    "Date": "2017-03-05",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "A",
@@ -4946,7 +4946,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-05T00:00:00.000Z",
+                    "Date": "2017-03-05",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "H",
@@ -4970,7 +4970,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-10T00:00:00.000Z",
+                    "Date": "2017-03-10",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "D",
@@ -4994,7 +4994,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-11T00:00:00.000Z",
+                    "Date": "2017-03-11",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "H",
@@ -5018,7 +5018,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-11T00:00:00.000Z",
+                    "Date": "2017-03-11",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "H",
@@ -5042,7 +5042,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-11T00:00:00.000Z",
+                    "Date": "2017-03-11",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "D",
@@ -5066,7 +5066,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-11T00:00:00.000Z",
+                    "Date": "2017-03-11",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "H",
@@ -5090,7 +5090,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-11T00:00:00.000Z",
+                    "Date": "2017-03-11",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "D",
@@ -5114,7 +5114,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-11T00:00:00.000Z",
+                    "Date": "2017-03-11",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "A",
@@ -5138,7 +5138,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-12T00:00:00.000Z",
+                    "Date": "2017-03-12",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "H",
@@ -5162,7 +5162,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-12T00:00:00.000Z",
+                    "Date": "2017-03-12",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "H",
@@ -5186,7 +5186,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-17T00:00:00.000Z",
+                    "Date": "2017-03-17",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "H",
@@ -5210,7 +5210,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-18T00:00:00.000Z",
+                    "Date": "2017-03-18",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "D",
@@ -5234,7 +5234,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-18T00:00:00.000Z",
+                    "Date": "2017-03-18",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "D",
@@ -5258,7 +5258,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-18T00:00:00.000Z",
+                    "Date": "2017-03-18",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "H",
@@ -5282,7 +5282,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-18T00:00:00.000Z",
+                    "Date": "2017-03-18",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "H",
@@ -5306,7 +5306,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-18T00:00:00.000Z",
+                    "Date": "2017-03-18",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "H",
@@ -5330,7 +5330,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-18T00:00:00.000Z",
+                    "Date": "2017-03-18",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -5354,7 +5354,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-19T00:00:00.000Z",
+                    "Date": "2017-03-19",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "A",
@@ -5378,7 +5378,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-19T00:00:00.000Z",
+                    "Date": "2017-03-19",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -5402,7 +5402,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-03-31T00:00:00.000Z",
+                    "Date": "2017-03-31",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "A",
@@ -5426,7 +5426,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-01T00:00:00.000Z",
+                    "Date": "2017-04-01",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "H",
@@ -5450,7 +5450,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-01T00:00:00.000Z",
+                    "Date": "2017-04-01",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "D",
@@ -5474,7 +5474,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-01T00:00:00.000Z",
+                    "Date": "2017-04-01",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "A",
@@ -5498,7 +5498,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-01T00:00:00.000Z",
+                    "Date": "2017-04-01",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "H",
@@ -5522,7 +5522,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-01T00:00:00.000Z",
+                    "Date": "2017-04-01",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -5546,7 +5546,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-01T00:00:00.000Z",
+                    "Date": "2017-04-01",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "D",
@@ -5570,7 +5570,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-02T00:00:00.000Z",
+                    "Date": "2017-04-02",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "H",
@@ -5594,7 +5594,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-02T00:00:00.000Z",
+                    "Date": "2017-04-02",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "D",
@@ -5618,7 +5618,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-04T00:00:00.000Z",
+                    "Date": "2017-04-04",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "H",
@@ -5642,7 +5642,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-04T00:00:00.000Z",
+                    "Date": "2017-04-04",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "H",
@@ -5666,7 +5666,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-04T00:00:00.000Z",
+                    "Date": "2017-04-04",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "H",
@@ -5690,7 +5690,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-04T00:00:00.000Z",
+                    "Date": "2017-04-04",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "H",
@@ -5714,7 +5714,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-05T00:00:00.000Z",
+                    "Date": "2017-04-05",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "A",
@@ -5738,7 +5738,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-05T00:00:00.000Z",
+                    "Date": "2017-04-05",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "A",
@@ -5762,7 +5762,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-05T00:00:00.000Z",
+                    "Date": "2017-04-05",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "A",
@@ -5786,7 +5786,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-05T00:00:00.000Z",
+                    "Date": "2017-04-05",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "H",
@@ -5810,7 +5810,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-05T00:00:00.000Z",
+                    "Date": "2017-04-05",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "A",
@@ -5834,7 +5834,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-07T00:00:00.000Z",
+                    "Date": "2017-04-07",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "D",
@@ -5858,7 +5858,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-08T00:00:00.000Z",
+                    "Date": "2017-04-08",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "H",
@@ -5882,7 +5882,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-08T00:00:00.000Z",
+                    "Date": "2017-04-08",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "A",
@@ -5906,7 +5906,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-08T00:00:00.000Z",
+                    "Date": "2017-04-08",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "H",
@@ -5930,7 +5930,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-08T00:00:00.000Z",
+                    "Date": "2017-04-08",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "H",
@@ -5954,7 +5954,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-08T00:00:00.000Z",
+                    "Date": "2017-04-08",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "H",
@@ -5978,7 +5978,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-08T00:00:00.000Z",
+                    "Date": "2017-04-08",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "H",
@@ -6002,7 +6002,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-09T00:00:00.000Z",
+                    "Date": "2017-04-09",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "H",
@@ -6026,7 +6026,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-09T00:00:00.000Z",
+                    "Date": "2017-04-09",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -6050,7 +6050,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-15T00:00:00.000Z",
+                    "Date": "2017-04-15",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "H",
@@ -6074,7 +6074,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-15T00:00:00.000Z",
+                    "Date": "2017-04-15",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "H",
@@ -6098,7 +6098,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-15T00:00:00.000Z",
+                    "Date": "2017-04-15",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "H",
@@ -6122,7 +6122,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-15T00:00:00.000Z",
+                    "Date": "2017-04-15",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "D",
@@ -6146,7 +6146,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-15T00:00:00.000Z",
+                    "Date": "2017-04-15",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "H",
@@ -6170,7 +6170,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-15T00:00:00.000Z",
+                    "Date": "2017-04-15",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "H",
@@ -6194,7 +6194,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-15T00:00:00.000Z",
+                    "Date": "2017-04-15",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "H",
@@ -6218,7 +6218,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-16T00:00:00.000Z",
+                    "Date": "2017-04-16",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "H",
@@ -6242,7 +6242,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-16T00:00:00.000Z",
+                    "Date": "2017-04-16",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "H",
@@ -6266,7 +6266,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-21T00:00:00.000Z",
+                    "Date": "2017-04-21",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "D",
@@ -6290,7 +6290,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-22T00:00:00.000Z",
+                    "Date": "2017-04-22",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "D",
@@ -6314,7 +6314,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-22T00:00:00.000Z",
+                    "Date": "2017-04-22",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "H",
@@ -6338,7 +6338,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-22T00:00:00.000Z",
+                    "Date": "2017-04-22",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "A",
@@ -6362,7 +6362,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-22T00:00:00.000Z",
+                    "Date": "2017-04-22",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "H",
@@ -6386,7 +6386,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-22T00:00:00.000Z",
+                    "Date": "2017-04-22",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "A",
@@ -6410,7 +6410,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-22T00:00:00.000Z",
+                    "Date": "2017-04-22",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "A",
@@ -6434,7 +6434,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-23T00:00:00.000Z",
+                    "Date": "2017-04-23",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "H",
@@ -6458,7 +6458,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-23T00:00:00.000Z",
+                    "Date": "2017-04-23",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "D",
@@ -6482,7 +6482,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-28T00:00:00.000Z",
+                    "Date": "2017-04-28",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "A",
@@ -6506,7 +6506,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-29T00:00:00.000Z",
+                    "Date": "2017-04-29",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "H",
@@ -6530,7 +6530,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-29T00:00:00.000Z",
+                    "Date": "2017-04-29",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "D",
@@ -6554,7 +6554,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-29T00:00:00.000Z",
+                    "Date": "2017-04-29",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "A",
@@ -6578,7 +6578,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-29T00:00:00.000Z",
+                    "Date": "2017-04-29",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "D",
@@ -6602,7 +6602,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-29T00:00:00.000Z",
+                    "Date": "2017-04-29",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "H",
@@ -6626,7 +6626,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-29T00:00:00.000Z",
+                    "Date": "2017-04-29",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -6650,7 +6650,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-30T00:00:00.000Z",
+                    "Date": "2017-04-30",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "H",
@@ -6674,7 +6674,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-04-30T00:00:00.000Z",
+                    "Date": "2017-04-30",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "H",
@@ -6698,7 +6698,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-05T00:00:00.000Z",
+                    "Date": "2017-05-05",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "H",
@@ -6722,7 +6722,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-06T00:00:00.000Z",
+                    "Date": "2017-05-06",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "H",
@@ -6746,7 +6746,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-06T00:00:00.000Z",
+                    "Date": "2017-05-06",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "H",
@@ -6770,7 +6770,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-06T00:00:00.000Z",
+                    "Date": "2017-05-06",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "A",
@@ -6794,7 +6794,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-06T00:00:00.000Z",
+                    "Date": "2017-05-06",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "A",
@@ -6818,7 +6818,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-06T00:00:00.000Z",
+                    "Date": "2017-05-06",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "D",
@@ -6842,7 +6842,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-06T00:00:00.000Z",
+                    "Date": "2017-05-06",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "D",
@@ -6866,7 +6866,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-07T00:00:00.000Z",
+                    "Date": "2017-05-07",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "H",
@@ -6890,7 +6890,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-07T00:00:00.000Z",
+                    "Date": "2017-05-07",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "D",
@@ -6914,7 +6914,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-13T00:00:00.000Z",
+                    "Date": "2017-05-13",
                     "HomeTeam": "Augsburg",
                     "AwayTeam": "Dortmund",
                     "FullTimeResult": "D",
@@ -6938,7 +6938,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-13T00:00:00.000Z",
+                    "Date": "2017-05-13",
                     "HomeTeam": "Darmstadt",
                     "AwayTeam": "Hertha",
                     "FullTimeResult": "A",
@@ -6962,7 +6962,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-13T00:00:00.000Z",
+                    "Date": "2017-05-13",
                     "HomeTeam": "Freiburg",
                     "AwayTeam": "Ingolstadt",
                     "FullTimeResult": "D",
@@ -6986,7 +6986,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-13T00:00:00.000Z",
+                    "Date": "2017-05-13",
                     "HomeTeam": "Leverkusen",
                     "AwayTeam": "FC Koln",
                     "FullTimeResult": "D",
@@ -7010,7 +7010,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-13T00:00:00.000Z",
+                    "Date": "2017-05-13",
                     "HomeTeam": "Mainz",
                     "AwayTeam": "Ein Frankfurt",
                     "FullTimeResult": "H",
@@ -7034,7 +7034,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-13T00:00:00.000Z",
+                    "Date": "2017-05-13",
                     "HomeTeam": "RB Leipzig",
                     "AwayTeam": "Bayern Munich",
                     "FullTimeResult": "A",
@@ -7058,7 +7058,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-13T00:00:00.000Z",
+                    "Date": "2017-05-13",
                     "HomeTeam": "Schalke 04",
                     "AwayTeam": "Hamburg",
                     "FullTimeResult": "D",
@@ -7082,7 +7082,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-13T00:00:00.000Z",
+                    "Date": "2017-05-13",
                     "HomeTeam": "Werder Bremen",
                     "AwayTeam": "Hoffenheim",
                     "FullTimeResult": "A",
@@ -7106,7 +7106,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-13T00:00:00.000Z",
+                    "Date": "2017-05-13",
                     "HomeTeam": "Wolfsburg",
                     "AwayTeam": "M'gladbach",
                     "FullTimeResult": "D",
@@ -7130,7 +7130,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-20T00:00:00.000Z",
+                    "Date": "2017-05-20",
                     "HomeTeam": "Bayern Munich",
                     "AwayTeam": "Freiburg",
                     "FullTimeResult": "H",
@@ -7154,7 +7154,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-20T00:00:00.000Z",
+                    "Date": "2017-05-20",
                     "HomeTeam": "Dortmund",
                     "AwayTeam": "Werder Bremen",
                     "FullTimeResult": "H",
@@ -7178,7 +7178,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-20T00:00:00.000Z",
+                    "Date": "2017-05-20",
                     "HomeTeam": "Ein Frankfurt",
                     "AwayTeam": "RB Leipzig",
                     "FullTimeResult": "D",
@@ -7202,7 +7202,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-20T00:00:00.000Z",
+                    "Date": "2017-05-20",
                     "HomeTeam": "FC Koln",
                     "AwayTeam": "Mainz",
                     "FullTimeResult": "H",
@@ -7226,7 +7226,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-20T00:00:00.000Z",
+                    "Date": "2017-05-20",
                     "HomeTeam": "Hamburg",
                     "AwayTeam": "Wolfsburg",
                     "FullTimeResult": "H",
@@ -7250,7 +7250,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-20T00:00:00.000Z",
+                    "Date": "2017-05-20",
                     "HomeTeam": "Hertha",
                     "AwayTeam": "Leverkusen",
                     "FullTimeResult": "A",
@@ -7274,7 +7274,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-20T00:00:00.000Z",
+                    "Date": "2017-05-20",
                     "HomeTeam": "Hoffenheim",
                     "AwayTeam": "Augsburg",
                     "FullTimeResult": "D",
@@ -7298,7 +7298,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-20T00:00:00.000Z",
+                    "Date": "2017-05-20",
                     "HomeTeam": "Ingolstadt",
                     "AwayTeam": "Schalke 04",
                     "FullTimeResult": "D",
@@ -7322,7 +7322,7 @@
           {
                     "Division": "D1",
                     "Season": "16-17",
-                    "Date": "2017-05-20T00:00:00.000Z",
+                    "Date": "2017-05-20",
                     "HomeTeam": "M'gladbach",
                     "AwayTeam": "Darmstadt",
                     "FullTimeResult": "D",

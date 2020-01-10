@@ -18,7 +18,11 @@ readable
     // String type
     info.Division = data.Div;
     info.Season = String(process.argv[2]).split("/")[0];
-    info.Date = new Date("20" + String(data.Date).split('/')[2] + "-" +  String(data.Date).split('/')[1] + "-" + String(data.Date).split('/')[0]);
+    if(String(data.Date).split('/')[2].length < 4) {
+      info.Date = "20" + String(data.Date).split('/')[2] + "-" +  String(data.Date).split('/')[1] + "-" + String(data.Date).split('/')[0];
+    } else {
+      info.Date = String(data.Date).split('/')[2] + "-" +  String(data.Date).split('/')[1] + "-" + String(data.Date).split('/')[0];
+    }
     info.HomeTeam = data.HomeTeam;
     info.AwayTeam = data.AwayTeam;
     info.FullTimeResult = data.FTR;

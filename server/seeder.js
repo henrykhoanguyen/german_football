@@ -9,7 +9,7 @@ dotenv.config({ path: "./config/config.env" });
 
 // Load models
 const Matches = require("./models/Matches");
-
+console.log("File is running. Connecting to database...");
 // Connect to DB
 connectDB();
 
