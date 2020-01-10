@@ -9,7 +9,7 @@ button {
 }
 
 mat-card-content {
-  height: 100px;
+  height: 50px;
   width: 100%;
   border-style: dashed;
   border-bottom: none;
@@ -18,17 +18,21 @@ mat-card-content {
   border-width: 2px;
   border-color: lightgray;
   margin-top: 0.5em;
-  padding-top: 0.5em;
+  padding-top: 1.5em;
   font-size: medium;
+  text-align: center;
 }
 mat-card-header{
   display: table-row;
   font-weight: bold;
-  font-size: large;
+  text-align: center;
 }
 
 mat-card-title {
   font-size: 14px;
+}
+.date-detail {
+  margin: 2px auto;
 }
 
 .match-cards {
