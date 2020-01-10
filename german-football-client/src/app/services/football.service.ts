@@ -22,6 +22,14 @@ export class FootballService {
       );
   }
 
+  getMatchesTable(season: string) {
+    return this.http
+      .get(this.footballUrl + 'matches/' + season)
+      .pipe(
+        tap(_ => console.log('matches table fetched...'))
+      );
+  }
+
   getSeasons() {
     return this.http
       .get(this.footballUrl + 'standings/seasons')

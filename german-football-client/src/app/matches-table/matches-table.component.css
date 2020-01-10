@@ -1,0 +1,51 @@
+button {
+  width: 20%;
+  justify-content: center;
+  display: flex;
+}
+
+.align-text {
+  text-align: center;
+}
+
+mat-card-content {
+  height: 100px;
+  width: 100%;
+  border-style: dashed;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-width: 2px;
+  border-color: lightgray;
+  margin-top: 0.5em;
+  padding-top: 0.5em;
+  font-size: medium;
+}
+mat-card-header{
+  display: table-row;
+  font-weight: bold;
+  font-size: large;
+}
+
+mat-card-title {
+  font-size: 14px;
+}
+
+.match-cards {
+  margin-top: 1em;
+  margin-left: 0.5em;
+  width: 45%;
+  display: inline-table;
+}
+
+@media screen and (max-width: 920px){
+  button {
+    width: 25%;
+    justify-content: center;
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 720px){
+
+}

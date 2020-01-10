@@ -6,7 +6,9 @@ import {
   MatListModule,
   MatTableModule,
   MatMenuModule,
-  MatButtonModule
+  MatButtonModule,
+  MatCardModule,
+  MatGridListModule
 } from '@angular/material';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
@@ -40,7 +42,9 @@ import { SeasonsButtonComponent } from './seasons-button/seasons-button.componen
     HttpClientModule,
     FontAwesomeModule,
     MatMenuModule,
-    MatButtonModule
+    MatButtonModule,
+    MatCardModule,
+    MatGridListModule
     // SeasonsButtonComponent
   ],
   providers: [],

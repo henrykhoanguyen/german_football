@@ -1,9 +1,42 @@
-<!-- <button mat-raised-button [matMenuTriggerFor]="menu" color="warn" [matMenuTriggerData]="seasons">{{ inputSeason }} Season</button>
+<button
+  mat-raised-button
+  [matMenuTriggerFor]="menu"
+  color="warn"
+  [matMenuTriggerData]="seasons"
+>
+  {{ inputSeason }} Season
+</button>
+
 <mat-menu #menu="matMenu">
   <ng-template matMenuContent>
-    <button mat-menu-item (click)="setSeason(seasons[2])">{{ seasons[2] }}</button>
-    <button mat-menu-item (click)="setSeason(seasons[1])">{{ seasons[1] }}</button>
-    <button mat-menu-item (click)="setSeason(seasons[0])">{{ seasons[0] }}</button>
+    <button mat-menu-item (click)="setSeason(seasons[2])">
+      {{ seasons[2] }}
+    </button>
+    <button mat-menu-item (click)="setSeason(seasons[1])">
+      {{ seasons[1] }}
+    </button>
+    <button mat-menu-item (click)="setSeason(seasons[0])">
+      {{ seasons[0] }}
+    </button>
   </ng-template>
-</mat-menu> -->
-<!-- <app-seasons-button></app-seasons-button> -->
+</mat-menu>
+
+<div *ngIf="matches.length > 0">
+  <mat-card *ngFor="let match of matches" class="match-cards">
+    <mat-card-header class="mat-title">
+      {{ match.HomeTeam }} - {{ match.FullTimeHomeGoals }}
+    </mat-card-header>
+    <mat-card-header class="mat-title">
+      {{ match.AwayTeam }} - {{ match.FullTimeAwayGoals }}
+    </mat-card-header>
+    <mat-card-content class="mat-body-2">
+      <p>
+
+      </p>
+    </mat-card-content>
+
+  </mat-card>
+</div>
+<p *ngIf="matches.length == 0" class="mat-subheading-2 align-text">
+  Nothing to see here...
+</p>

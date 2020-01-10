@@ -12,10 +12,11 @@ import { SeasonsButtonComponent } from '../seasons-button/seasons-button.compone
 export class MatchesTableComponent implements OnInit {
   private inputSeason: string;
   private matches: [] = [];
+  private length: number;
 
   private seasons = [];
 
-  constructor(private footballService: FootballService) { }
+  constructor(private footballService: FootballService) {}
   // , private seasonsButton: SeasonsButtonComponent
   ngOnInit() {
     this.getAllSeasons();
@@ -24,23 +25,27 @@ export class MatchesTableComponent implements OnInit {
   }
 
   getMatches(season): void {
-
+    this.footballService
+      .getMatchesTable('?Season=' + String(season))
+      .subscribe(res => {
+        // console.log(res);
+        this.matches = Object(res).data;
+        this.length = Object(res).count;
+      });
   }
 
   getAllSeasons(): void {
-    this.footballService.getSeasons()
-      .subscribe(res => {
-
-        this.seasons = [ ...Object(res).data ];
-        console.log(this.seasons);
-        this.setSeason(this.seasons[2]);
-      });
+    this.footballService.getSeasons().subscribe(res => {
+      this.seasons = [...Object(res).data];
       // console.log(this.seasons);
+      this.setSeason(this.seasons[2]);
+    });
+    // console.log(this.seasons);
   }
 
   setSeason(season): void {
     this.inputSeason = season;
     // console.log(season);
-    // this.getMatches(season);
+    this.getMatches(season);
   }
 }
