@@ -1,0 +1,35 @@
+<h3 class="mat-title">{{ match.HomeTeam }} vs {{ match.AwayTeam }}</h3>
+<p class="mat-body-2">
+  <strong>Season:</strong> {{ match.Season }} <br />
+  <strong>Date:</strong> {{ match.Date }} <br />
+  <strong>Full Time Result: </strong> {{ match.FullTimeResult }}<br />
+
+  <strong>Haft Time Home Goals: </strong> {{ match.HaftTimeHomeGoals }}<br />
+  <strong>Haft Time Away Goals: </strong> {{ match.HaftTimeAwayGoals }}<br />
+
+  <strong>Full Time Home Goals: </strong> {{ match.FullTimeHomeGoals }}<br />
+  <strong>Full Time Away Goals: </strong> {{ match.FullTimeAwayGoals }}
+</p>
+
+<h4 class="mat-subheading-1">Shot Analysis:</h4>
+<p class="mat-body-2">
+  <strong>Home Shots: </strong> {{ match.HomeShots }}<br />
+  <strong>Away Shots: </strong> {{ match.AwayShots }}<br />
+  <strong>Home Shots on Target: </strong> {{ match.HomeShotsTarget }}<br />
+  <strong>Away Shots on Target: </strong> {{ match.AwayShotsTarget }}
+</p>
+
+<h4 class="mat-subheading-1">Technical:</h4>
+<p class="mat-body-2">
+  <strong>Home Team Number of Fouls: </strong> {{ match.HomeFouls }}<br />
+  <strong>Away Team Number of Fouls: </strong> {{ match.AwayFouls }}<br />
+
+  <strong>Home Corners Taken: </strong> {{ match.HomeCorners }}<br />
+  <strong>Away Corners Taken: </strong> {{ match.AwayCorners }}<br />
+
+  <strong>Home Team's Yellow Cards: </strong> {{ match.HomeYellow }}<br />
+  <strong>Away Team's Yellow Cards: </strong> {{ match.AwayYellow }}<br />
+  <strong>Home Team's Red Cards: </strong> {{ match.HomeRed }}<br />
+  <strong>Away Team's Red Cards: </strong> {{ match.AwayRed }}
+</p>
+<button mat-button (click)="onClose()">Close</button>

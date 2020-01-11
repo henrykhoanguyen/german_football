@@ -1,8 +1,10 @@
 import { Component, OnInit } from '@angular/core';
+import { MatDialog } from '@angular/material';
 // Services
 import { FootballService } from '../services/football.service';
 // Components
 import { SeasonsButtonComponent } from '../seasons-button/seasons-button.component';
+import { MatchDetailsDialogComponent } from '../match-details-dialog/match-details-dialog.component';
 
 @Component({
   selector: 'app-matches-table',
@@ -16,7 +18,7 @@ export class MatchesTableComponent implements OnInit {
 
   private seasons = [];
 
-  constructor(private footballService: FootballService) {}
+  constructor(private footballService: FootballService, public dialog: MatDialog) {}
   // , private seasonsButton: SeasonsButtonComponent
   ngOnInit() {
     this.getAllSeasons();
@@ -47,5 +49,10 @@ export class MatchesTableComponent implements OnInit {
     this.inputSeason = season;
     // console.log(season);
     this.getMatches(season);
+  }
+
+  openDialog(match){
+    console.log(match);
+    this.dialog.open(MatchDetailsDialogComponent, { data: match });
   }
 }

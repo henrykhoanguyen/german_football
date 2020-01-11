@@ -35,11 +35,26 @@ mat-card-title {
   margin: 2px auto;
 }
 
+.winner {
+  display: initial;
+  color: #d85353;
+}
+
 .match-cards {
   margin-top: 1em;
   margin-left: 0.5em;
   width: 45%;
   display: inline-table;
+}
+
+@media screen and (max-width: 1330px){
+  .match-cards {
+    width: 42%;
+    margin-left: 0.75em;
+  }
+  mat-card-header {
+    font-size: large;
+  }
 }
 
 @media screen and (max-width: 920px){
@@ -48,8 +63,21 @@ mat-card-title {
     justify-content: center;
     display: flex;
   }
+
+  .match-cards {
+    width: 42%;
+    margin-left: 0.5em;
+  }
+  mat-card-header {
+    font-size: medium;
+  }
 }
 
 @media screen and (max-width: 720px){
-
+  .match-cards {
+    width: 40%;
+  }
+  mat-card-header {
+    font-size: medium;
+  }
 }

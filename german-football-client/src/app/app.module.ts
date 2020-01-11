@@ -8,7 +8,8 @@ import {
   MatMenuModule,
   MatButtonModule,
   MatCardModule,
-  MatGridListModule
+  MatGridListModule,
+  MatDialogModule
 } from '@angular/material';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
@@ -21,6 +22,7 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 import { StandingsTableComponent } from './standings-table/standings-table.component';
 import { MatchesTableComponent } from './matches-table/matches-table.component';
 import { SeasonsButtonComponent } from './seasons-button/seasons-button.component';
+import { MatchDetailsDialogComponent } from './match-details-dialog/match-details-dialog.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +31,8 @@ import { SeasonsButtonComponent } from './seasons-button/seasons-button.componen
     DashboardComponent,
     StandingsTableComponent,
     MatchesTableComponent,
-    SeasonsButtonComponent
+    SeasonsButtonComponent,
+    MatchDetailsDialogComponent
   ],
   imports: [
     BrowserModule,
@@ -44,9 +47,11 @@ import { SeasonsButtonComponent } from './seasons-button/seasons-button.componen
     MatMenuModule,
     MatButtonModule,
     MatCardModule,
-    MatGridListModule
+    MatGridListModule,
+    MatDialogModule
     // SeasonsButtonComponent
   ],
+  entryComponents: [MatchDetailsDialogComponent],
   providers: [],
   bootstrap: [AppComponent]
 })

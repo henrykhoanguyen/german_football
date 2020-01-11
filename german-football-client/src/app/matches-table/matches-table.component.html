@@ -22,9 +22,17 @@
 </mat-menu>
 
 <div *ngIf="matches.length > 0">
-  <mat-card *ngFor="let match of matches" class="match-cards">
-    <mat-card-header class="mat-title">
-      {{ match.HomeTeam }} vs {{ match.AwayTeam }}
+  <mat-card *ngFor="let match of matches" class="match-cards" (click)="openDialog(match)">
+    <mat-card-header class="mat-title" [ngSwitch]="match.FullTimeResult">
+        <div *ngSwitchCase="'H'">
+          <div class="winner">{{ match.HomeTeam }} </div>vs {{ match.AwayTeam }}
+        </div>
+        <div *ngSwitchCase="'A'">
+          {{ match.HomeTeam }} vs <div class="winner">{{ match.AwayTeam }}</div>
+        </div>
+        <div *ngSwitchCase="'D'">
+          {{ match.HomeTeam }} vs {{ match.AwayTeam }}
+        </div>
       <p class="mat-body-1 date-detail">
         {{ match.Date}}
       </p>
