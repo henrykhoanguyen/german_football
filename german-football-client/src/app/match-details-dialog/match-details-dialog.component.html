@@ -1,35 +1,64 @@
-<h3 class="mat-title">{{ match.HomeTeam }} vs {{ match.AwayTeam }}</h3>
-<p class="mat-body-2">
+<mat-grid-list class="mat-body-2" cols="2">
+  <h3 class="mat-title title-box">
+    {{ match.HomeTeam }}
+    <div class="scores">
+      {{ match.FullTimeHomeGoals }}
+    </div>
+    -
+    <div class="scores">
+      {{ match.FullTimeAwayGoals }}
+    </div>
+    {{ match.AwayTeam }}
+  </h3>
+
   <strong>Season:</strong> {{ match.Season }} <br />
-  <strong>Date:</strong> {{ match.Date }} <br />
-  <strong>Full Time Result: </strong> {{ match.FullTimeResult }}<br />
+  <strong>Date:</strong> {{ match.Date }}
+</mat-grid-list>
 
-  <strong>Haft Time Home Goals: </strong> {{ match.HaftTimeHomeGoals }}<br />
-  <strong>Haft Time Away Goals: </strong> {{ match.HaftTimeAwayGoals }}<br />
+<mat-grid-list class="mat-body-2" cols="2" rowHeight="2:1" gutterSize="2em">
+  <mat-grid-tile rowspan="1">
+    <div class="info-content">
+      <h4 class="mat-subheading-1 title-content">Match Result</h4>
+      <p>
+        <strong>Full Time Result: </strong> {{ match.FullTimeResult }}<br />
 
-  <strong>Full Time Home Goals: </strong> {{ match.FullTimeHomeGoals }}<br />
-  <strong>Full Time Away Goals: </strong> {{ match.FullTimeAwayGoals }}
-</p>
+        <strong>Haft Time Home Goals: </strong> {{ match.HaftTimeHomeGoals }}<br />
+        <strong>Haft Time Away Goals: </strong> {{ match.HaftTimeAwayGoals }}<br />
 
-<h4 class="mat-subheading-1">Shot Analysis:</h4>
-<p class="mat-body-2">
-  <strong>Home Shots: </strong> {{ match.HomeShots }}<br />
-  <strong>Away Shots: </strong> {{ match.AwayShots }}<br />
-  <strong>Home Shots on Target: </strong> {{ match.HomeShotsTarget }}<br />
-  <strong>Away Shots on Target: </strong> {{ match.AwayShotsTarget }}
-</p>
+        <strong>Full Time Home Goals: </strong> {{ match.FullTimeHomeGoals }}<br />
+        <strong>Full Time Away Goals: </strong> {{ match.FullTimeAwayGoals }}
+      </p>
+    </div>
+  </mat-grid-tile>
+  <mat-grid-tile rowspan="1">
+    <div class="info-content">
+      <h4 class="mat-subheading-1 title-content">Shot Analysis</h4>
+      <p>
+        <strong>Home Shots: </strong> {{ match.HomeShots }}<br />
+        <strong>Away Shots: </strong> {{ match.AwayShots }}<br />
+        <strong>Home Shots on Target: </strong> {{ match.HomeShotsTarget }}<br />
+        <strong>Away Shots on Target: </strong> {{ match.AwayShotsTarget }}
+      </p>
+    </div>
+  </mat-grid-tile>
 
-<h4 class="mat-subheading-1">Technical:</h4>
-<p class="mat-body-2">
-  <strong>Home Team Number of Fouls: </strong> {{ match.HomeFouls }}<br />
-  <strong>Away Team Number of Fouls: </strong> {{ match.AwayFouls }}<br />
+  <mat-grid-tile rowspan="1" colspan="2" class="last-tile">
+    <div class="info-content">
+      <h4 class="mat-subheading-1 title-content">Technical</h4>
+      <p>
+        <strong>Home Team Number of Fouls: </strong> {{ match.HomeFouls }}<br />
+        <strong>Away Team Number of Fouls: </strong> {{ match.AwayFouls }}<br />
 
-  <strong>Home Corners Taken: </strong> {{ match.HomeCorners }}<br />
-  <strong>Away Corners Taken: </strong> {{ match.AwayCorners }}<br />
+        <strong>Home Corners Taken: </strong> {{ match.HomeCorners }}<br />
+        <strong>Away Corners Taken: </strong> {{ match.AwayCorners }}<br />
 
-  <strong>Home Team's Yellow Cards: </strong> {{ match.HomeYellow }}<br />
-  <strong>Away Team's Yellow Cards: </strong> {{ match.AwayYellow }}<br />
-  <strong>Home Team's Red Cards: </strong> {{ match.HomeRed }}<br />
-  <strong>Away Team's Red Cards: </strong> {{ match.AwayRed }}
-</p>
-<button mat-button (click)="onClose()">Close</button>
+        <strong>Home Team's Yellow Cards: </strong> {{ match.HomeYellow }}<br />
+        <strong>Away Team's Yellow Cards: </strong> {{ match.AwayYellow }}<br />
+        <strong>Home Team's Red Cards: </strong> {{ match.HomeRed }}<br />
+        <strong>Away Team's Red Cards: </strong> {{ match.AwayRed }}
+      </p>
+    </div>
+  </mat-grid-tile>
+
+</mat-grid-list>
+<button mat-stroked-button color="warn" class="close-button" (click)="onClose()">Close</button>
