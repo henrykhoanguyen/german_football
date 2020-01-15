@@ -75,7 +75,8 @@ mat-card-title {
 
 @media screen and (max-width: 720px){
   .match-cards {
-    width: 40%;
+    width: 35%;
+    margin-left: 1em;
   }
   mat-card-header {
     font-size: medium;

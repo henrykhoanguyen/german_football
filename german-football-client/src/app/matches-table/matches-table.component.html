@@ -22,19 +22,33 @@
 </mat-menu>
 
 <div *ngIf="matches.length > 0">
-  <mat-card *ngFor="let match of matches" class="match-cards" (click)="openDialog(match)">
+  <mat-paginator
+    [length]="length"
+    [pageSize]="9"
+    showFirstLastButtons
+    (page)="OnPageChange($event)"
+  >
+  </mat-paginator>
+
+  <mat-card
+    *ngFor="let match of pagedMatches"
+    class="match-cards"
+    (click)="openDialog(match)"
+  >
     <mat-card-header class="mat-title" [ngSwitch]="match.FullTimeResult">
-        <div *ngSwitchCase="'H'">
-          <div class="winner">{{ match.HomeTeam }} </div>vs {{ match.AwayTeam }}
-        </div>
-        <div *ngSwitchCase="'A'">
-          {{ match.HomeTeam }} vs <div class="winner">{{ match.AwayTeam }}</div>
-        </div>
-        <div *ngSwitchCase="'D'">
-          {{ match.HomeTeam }} vs {{ match.AwayTeam }}
-        </div>
+      <div *ngSwitchCase="'H'">
+        <div class="winner">{{ match.HomeTeam }}</div>
+        vs {{ match.AwayTeam }}
+      </div>
+      <div *ngSwitchCase="'A'">
+        {{ match.HomeTeam }} vs
+        <div class="winner">{{ match.AwayTeam }}</div>
+      </div>
+      <div *ngSwitchCase="'D'">
+        {{ match.HomeTeam }} vs {{ match.AwayTeam }}
+      </div>
       <p class="mat-body-1 date-detail">
-        {{ match.Date}}
+        {{ match.Date }}
       </p>
     </mat-card-header>
     <mat-card-content>
@@ -42,11 +56,10 @@
         {{ match.FullTimeHomeGoals }} - {{ match.FullTimeAwayGoals }}
       </p>
     </mat-card-content>
-
   </mat-card>
-  <mat-paginator showFirstLastButtons ></mat-paginator>
 </div>
 <p *ngIf="matches.length == 0" class="mat-subheading-2 align-text">
   Nothing to see here...
 </p>
-<!-- TODO: add pagination, 9 matches per page -->
+<!-- TODO: add pagination, 9 matches per page,
+  find way to work around DataSource and instead still use for loop -->

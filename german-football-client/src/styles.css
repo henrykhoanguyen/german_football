@@ -7,3 +7,9 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
   /* justify-content: flex-start !important ; */
   align-items: flex-start !important;
 }
+
+
+.mat-dialog-container {
+  height: 30em !important;
+  width: 50em !important;
+}

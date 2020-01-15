@@ -35,8 +35,8 @@
       <h4 class="mat-subheading-1 title-content">Shot Analysis</h4>
       <p>
         <strong>Home Shots: </strong> {{ match.HomeShots }}<br />
+        <strong>Home Shots on Target: </strong> {{ match.HomeShotsTarget }}<br /><br />
         <strong>Away Shots: </strong> {{ match.AwayShots }}<br />
-        <strong>Home Shots on Target: </strong> {{ match.HomeShotsTarget }}<br />
         <strong>Away Shots on Target: </strong> {{ match.AwayShotsTarget }}
       </p>
     </div>
@@ -46,20 +46,19 @@
     <div class="info-content">
       <h4 class="mat-subheading-1 title-content">Technical</h4>
       <p>
-        <strong>Home Team Number of Fouls: </strong> {{ match.HomeFouls }}<br />
-        <strong>Away Team Number of Fouls: </strong> {{ match.AwayFouls }}<br />
-
+        <strong>Home Team Number of Fouls: </strong> {{ match.HomeFouls }} <br/>
         <strong>Home Corners Taken: </strong> {{ match.HomeCorners }}<br />
-        <strong>Away Corners Taken: </strong> {{ match.AwayCorners }}<br />
+        <strong>Home Team's Yellow Cards: </strong> {{ match.HomeYellow }} <br/>
+        <strong>Home Team's Red Cards: </strong> {{ match.HomeRed }}<br /> <br/>
 
-        <strong>Home Team's Yellow Cards: </strong> {{ match.HomeYellow }}<br />
-        <strong>Away Team's Yellow Cards: </strong> {{ match.AwayYellow }}<br />
-        <strong>Home Team's Red Cards: </strong> {{ match.HomeRed }}<br />
+        <strong>Away Team Number of Fouls: </strong> {{ match.AwayFouls }} <br/>
+        <strong>Away Corners Taken: </strong> {{ match.AwayCorners }}<br />
+        <strong>Away Team's Yellow Cards: </strong> {{ match.AwayYellow }} <br/>
         <strong>Away Team's Red Cards: </strong> {{ match.AwayRed }}
       </p>
     </div>
   </mat-grid-tile>
 
 </mat-grid-list>
-<button mat-stroked-button color="warn" class="close-button" (click)="onClose()">Close</button>
+<!-- <button mat-stroked-button color="warn" class="close-button" (click)="onClose()">Close</button> -->
 <!-- TODO: add news or commentary section in 4th tile -->
