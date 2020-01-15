@@ -1,5 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-import { MatDialog } from '@angular/material';
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { MatDialog, MatPaginator } from '@angular/material';
 // Services
 import { FootballService } from '../services/football.service';
 // Components
@@ -16,6 +16,9 @@ export class MatchesTableComponent implements OnInit {
   private matches: [] = [];
   private length: number;
 
+  private static limit = 9;
+
+  @ViewChild(MatPaginator, {static: true}) paginator: MatPaginator;
   private seasons = [];
 
   constructor(private footballService: FootballService, public dialog: MatDialog) {}

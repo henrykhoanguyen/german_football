@@ -9,7 +9,8 @@ import {
   MatButtonModule,
   MatCardModule,
   MatGridListModule,
-  MatDialogModule
+  MatDialogModule,
+  MatPaginatorModule
 } from '@angular/material';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
@@ -48,7 +49,8 @@ import { MatchDetailsDialogComponent } from './match-details-dialog/match-detail
     MatButtonModule,
     MatCardModule,
     MatGridListModule,
-    MatDialogModule
+    MatDialogModule,
+    MatPaginatorModule
     // SeasonsButtonComponent
   ],
   entryComponents: [MatchDetailsDialogComponent],
