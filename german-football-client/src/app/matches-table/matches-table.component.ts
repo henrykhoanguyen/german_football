@@ -1,5 +1,5 @@
-import { Component, OnInit, ViewChild } from '@angular/core';
-import { MatDialog, MatPaginator, PageEvent } from '@angular/material';
+import { Component, OnInit } from '@angular/core';
+import { MatDialog, PageEvent } from '@angular/material';
 // Services
 import { FootballService } from '../services/football.service';
 // Components
@@ -20,7 +20,6 @@ export class MatchesTableComponent implements OnInit {
   private pageIndex = 0; // pageIndex by default is 0
   private pageSize = 9;
 
-  @ViewChild(MatPaginator, { static: true }) paginator: MatPaginator;
   private seasons = [];
 
   constructor(

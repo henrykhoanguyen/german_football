@@ -21,7 +21,7 @@ export class StandingsTableComponent implements OnInit {
     this.getAllSeasons();
   }
 
-  getStandings(season):void{
+  getStandings(season): void {
 
     this.footballService.getStandingsTable('?Season=' + String(season))
     .subscribe(res => {
@@ -33,7 +33,7 @@ export class StandingsTableComponent implements OnInit {
     });
   }
 
-  getAllSeasons(): void{
+  getAllSeasons(): void {
     this.footballService.getSeasons()
       .subscribe(res => {
         // Object(res).data.forEach(element => {
@@ -46,7 +46,7 @@ export class StandingsTableComponent implements OnInit {
       // console.log(this.seasons);
   }
 
-  setSeason(season){
+  setSeason(season) {
     this.inputSeason = season;
     // console.log(season);
     this.getStandings(season);

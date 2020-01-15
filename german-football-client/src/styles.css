@@ -8,8 +8,11 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
   align-items: flex-start !important;
 }
 
-
 .mat-dialog-container {
   height: 30em !important;
   width: 50em !important;
+}
+
+.mat-tab-body-content {
+  padding-bottom: 1em;
 }
