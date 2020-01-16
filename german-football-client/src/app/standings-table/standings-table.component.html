@@ -1,58 +1,136 @@
-<button mat-raised-button [matMenuTriggerFor]="menu" color="warn" [matMenuTriggerData]="seasons">{{ inputSeason }} Season</button>
+<button
+  mat-raised-button
+  [matMenuTriggerFor]="menu"
+  color="warn"
+  [matMenuTriggerData]="seasons"
+>
+  {{ inputSeason }} Season
+</button>
 <mat-menu #menu="matMenu">
   <ng-template matMenuContent>
-    <button mat-menu-item (click)="setSeason(seasons[2])">{{ seasons[2] }}</button>
-    <button mat-menu-item (click)="setSeason(seasons[1])">{{ seasons[1] }}</button>
-    <button mat-menu-item (click)="setSeason(seasons[0])">{{ seasons[0] }}</button>
+    <button mat-menu-item (click)="setSeason(seasons[2])">
+      {{ seasons[2] }}
+    </button>
+    <button mat-menu-item (click)="setSeason(seasons[1])">
+      {{ seasons[1] }}
+    </button>
+    <button mat-menu-item (click)="setSeason(seasons[0])">
+      {{ seasons[0] }}
+    </button>
   </ng-template>
 </mat-menu>
 <!-- <mat-divider></mat-divider> -->
-<mat-table [dataSource]="standings" class="mat-elevation-z8" *ngIf="standings.length > 0">
+<div>
+  <p class="mat-caption glossary">
+    <strong>W</strong> - Win |
+    <strong>L</strong> - Loss |
+    <strong>D</strong> - Draw |
+    <strong>GF</strong> - Goals For |
+    <strong>GA</strong> - Goals Against |
+    <strong>GD</strong> - Goal Difference |
+    <strong>Pts</strong> - Points
+  </p>
+</div>
+<mat-table
+  [dataSource]="standings"
+  class="mat-elevation-z8"
+  *ngIf="standings.length > 0"
+>
+  <!-- Rank Column -->
+  <ng-container matColumnDef="Rank">
+    <mat-header-cell *matHeaderCellDef> No. </mat-header-cell>
+    <mat-cell *matCellDef="let i = index" [ngSwitch]="i">
+      <div *ngSwitchCase="0" class="champion">
+        {{ i + 1 }}
+      </div>
+      <div *ngSwitchCase="1" class="champion">
+        {{ i + 1 }}
+      </div>
+      <div *ngSwitchCase="2" class="champion">
+        {{ i + 1 }}
+      </div>
+      <div *ngSwitchCase="3" class="champion">
+        {{ i + 1 }}
+      </div>
+      <div *ngSwitchCase="4" class="europa">
+        {{ i + 1 }}
+      </div>
+      <div *ngSwitchCase="5" class="europa-qualifier">
+        {{ i + 1 }}
+      </div>
+      <div *ngSwitchCase="15" class="relegation">
+        {{ i + 1 }}
+      </div>
+      <div *ngSwitchCase="16" class="relegation">
+        {{ i + 1 }}
+      </div>
+      <div *ngSwitchCase="17" class="relegation">
+        {{ i + 1 }}
+      </div>
+      <div *ngSwitchDefault>
+        {{ i + 1 }}
+      </div>
+    </mat-cell>
+  </ng-container>
 
-    <!-- Rank Column -->
-    <ng-container matColumnDef="Rank">
-      <mat-header-cell *matHeaderCellDef> No. </mat-header-cell>
-      <mat-cell *matCellDef="let i = index">{{ i + 1 }}</mat-cell>
-    </ng-container>
-
-    <!-- Name Column -->
-    <ng-container matColumnDef="Name">
-      <mat-header-cell *matHeaderCellDef class="align-left">Club </mat-header-cell>
-      <mat-cell *matCellDef="let element;" class="align-left">{{ element.Name }} </mat-cell>
-    </ng-container>
+  <!-- Name Column -->
+  <ng-container matColumnDef="Name">
+    <mat-header-cell *matHeaderCellDef class="align-left"
+      >Club
+    </mat-header-cell>
+    <mat-cell *matCellDef="let element" class="align-left"
+      >{{ element.Name }}
+    </mat-cell>
+  </ng-container>
   <!-- Wins Column -->
-  <ng-container matColumnDef="Wins" >
+  <ng-container matColumnDef="Wins">
     <mat-header-cell *matHeaderCellDef class="align-right"> W </mat-header-cell>
-    <mat-cell *matCellDef="let element" class="align-right"> {{ element.Win }} </mat-cell>
+    <mat-cell *matCellDef="let element" class="align-right">
+      {{ element.Win }}
+    </mat-cell>
   </ng-container>
 
   <!-- Losses Column -->
   <ng-container matColumnDef="Losses">
     <mat-header-cell *matHeaderCellDef class="align-right"> L </mat-header-cell>
-    <mat-cell *matCellDef="let element" class="align-right"> {{ element.Lost }} </mat-cell>
+    <mat-cell *matCellDef="let element" class="align-right">
+      {{ element.Lost }}
+    </mat-cell>
   </ng-container>
 
   <!-- Draws Column -->
   <ng-container matColumnDef="Draws">
     <mat-header-cell *matHeaderCellDef class="align-right"> D </mat-header-cell>
-    <mat-cell *matCellDef="let element" class="align-right"> {{ element.Draw }} </mat-cell>
+    <mat-cell *matCellDef="let element" class="align-right">
+      {{ element.Draw }}
+    </mat-cell>
   </ng-container>
 
   <!-- Goals For Column -->
   <ng-container matColumnDef="GoalsFor">
-    <mat-header-cell *matHeaderCellDef class="align-right"> GF </mat-header-cell>
-    <mat-cell *matCellDef="let element" class="align-right"> {{ element.GoalsFor }} </mat-cell>
+    <mat-header-cell *matHeaderCellDef class="align-right">
+      GF
+    </mat-header-cell>
+    <mat-cell *matCellDef="let element" class="align-right">
+      {{ element.GoalsFor }}
+    </mat-cell>
   </ng-container>
 
   <!-- Goals Against Column -->
   <ng-container matColumnDef="GoalsAgainst">
-    <mat-header-cell *matHeaderCellDef class="align-right"> GA </mat-header-cell>
-    <mat-cell *matCellDef="let element" class="align-right"> {{ element.GoalsAgainst }} </mat-cell>
+    <mat-header-cell *matHeaderCellDef class="align-right">
+      GA
+    </mat-header-cell>
+    <mat-cell *matCellDef="let element" class="align-right">
+      {{ element.GoalsAgainst }}
+    </mat-cell>
   </ng-container>
 
   <!-- Goals Difference Column -->
   <ng-container matColumnDef="GoalsDifference">
-    <mat-header-cell *matHeaderCellDef class="align-right"> GD </mat-header-cell>
+    <mat-header-cell *matHeaderCellDef class="align-right">
+      GD
+    </mat-header-cell>
     <mat-cell *matCellDef="let element" class="align-right">
       {{ element.GoalsDifference }}
     </mat-cell>
@@ -60,15 +138,35 @@
 
   <!-- Points Column -->
   <ng-container matColumnDef="Points">
-    <mat-header-cell *matHeaderCellDef class="align-right"> Pts </mat-header-cell>
-    <mat-cell *matCellDef="let element" class="align-right"> {{ element.Points }} </mat-cell>
+    <mat-header-cell *matHeaderCellDef class="align-right">
+      Pts
+    </mat-header-cell>
+    <mat-cell *matCellDef="let element" class="align-right">
+      {{ element.Points }}
+    </mat-cell>
   </ng-container>
 
   <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
   <mat-row *matRowDef="let row; columns: displayedColumns"></mat-row>
 </mat-table>
+  <div>
+    <h4 class="mat-subheading-2 glossary-title">Team Standing Color Code</h4>
+    <p class="champion mat-body-2">
+      UEFA Champion League group stage
+    </p>
+    <p class="europa mat-body-2">
+      Europa League group stage
+    </p>
+    <p class="europa-qualifier mat-body-2">
+      Europa League qualifier
+    </p>
+    <p class="relegation mat-body-2">
+      Relegation
+    </p>
+  </div>
 
-<p *ngIf="standings.length == 0" class="mat-subheading-2 align-text">Nothing to see here...</p>
-<!-- TODO1: add color codes of champion league, europa league, and relegation -->
-<!-- TODO2: add glossary term -->
+
+<p *ngIf="standings.length == 0" class="mat-subheading-2 align-text">
+  Nothing to see here...
+</p>
 <!-- TODO4: might consider adding expand and collapsible to table element -->
