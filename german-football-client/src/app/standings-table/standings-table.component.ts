@@ -9,7 +9,7 @@ import { FootballService } from '../services/football.service';
 export class StandingsTableComponent implements OnInit {
   private standings: [] = [];
   private seasons = [];
-  private inputSeason: string;
+  // private inputSeason: string;
   private length: number;
   private displayedColumns: string[] = ['Rank', 'Name', 'Wins', 'Losses',
   'Draws', 'GoalsFor', 'GoalsAgainst', 'GoalsDifference', 'Points'];
@@ -21,7 +21,9 @@ export class StandingsTableComponent implements OnInit {
     this.getAllSeasons();
   }
 
-  getStandings(season): void {
+  // Get team standings from user input season
+  // or by default, the latest season.
+  getStandings(season: string): void {
 
     this.footballService.getStandingsTable('?Season=' + String(season))
     .subscribe(res => {
@@ -33,22 +35,16 @@ export class StandingsTableComponent implements OnInit {
     });
   }
 
+  // Get all seasons available in database.
   getAllSeasons(): void {
     this.footballService.getSeasons()
       .subscribe(res => {
-        // Object(res).data.forEach(element => {
-        //   this.seasons.push(element);
-        // })
         this.seasons = [ ...Object(res).data ];
         // console.log(this.seasons);
-        this.setSeason(this.seasons[2]);
+
+        // By default, latest season is set to get team standings
+        this.getStandings(this.seasons[2]);
       });
       // console.log(this.seasons);
-  }
-
-  setSeason(season) {
-    this.inputSeason = season;
-    // console.log(season);
-    this.getStandings(season);
   }
 }

@@ -1,8 +1,21 @@
-<button mat-raised-button [matMenuTriggerFor]="menu" color="warn" [matMenuTriggerData]="seasons">{{ inputSeason }} Season</button>
+<button
+  mat-raised-button
+  [matMenuTriggerFor]="menu"
+  color="warn"
+  [matMenuTriggerData]="seasons"
+>
+  {{ displayingSeason || seasons[2] }} Season
+</button>
 <mat-menu #menu="matMenu">
   <ng-template matMenuContent>
-    <button mat-menu-item (click)="setSeason(seasons[2])">{{ seasons[2] }}</button>
-    <button mat-menu-item (click)="setSeason(seasons[1])">{{ seasons[1] }}</button>
-    <button mat-menu-item (click)="setSeason(seasons[0])">{{ seasons[0] }}</button>
+    <button mat-menu-item (click)="setSeason(seasons[2])">
+      {{ seasons[2] }}
+    </button>
+    <button mat-menu-item (click)="setSeason(seasons[1])">
+      {{ seasons[1] }}
+    </button>
+    <button mat-menu-item (click)="setSeason(seasons[0])">
+      {{ seasons[0] }}
+    </button>
   </ng-template>
 </mat-menu>

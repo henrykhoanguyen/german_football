@@ -12,7 +12,7 @@ import { MatchDetailsDialogComponent } from '../match-details-dialog/match-detai
   styleUrls: ['./matches-table.component.css']
 })
 export class MatchesTableComponent implements OnInit {
-  private inputSeason: string;
+  // private inputSeason: string;
   private matches: [] = [];
   private length: number;
 
@@ -26,7 +26,7 @@ export class MatchesTableComponent implements OnInit {
     private footballService: FootballService,
     public dialog: MatDialog
   ) {}
-  // , private seasonsButton: SeasonsButtonComponent
+
   ngOnInit() {
     this.getAllSeasons();
   }
@@ -53,18 +53,11 @@ export class MatchesTableComponent implements OnInit {
   // Get all seasons
   getAllSeasons(): void {
     this.footballService.getSeasons().subscribe(res => {
-      this.seasons = [...Object(res).data];
+      this.seasons = [ ...Object(res).data ];
       // console.log(this.seasons);
-      this.setSeason(this.seasons[2]);
+      this.getMatches(this.seasons[2]);
     });
     // console.log(this.seasons);
-  }
-
-  // Set season for season selection button
-  setSeason(season): void {
-    this.inputSeason = season;
-    // console.log(season);
-    this.getMatches(season);
   }
 
   // Open a match dialog/modal

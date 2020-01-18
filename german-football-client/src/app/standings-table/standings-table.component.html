@@ -1,24 +1,5 @@
-<button
-  mat-raised-button
-  [matMenuTriggerFor]="menu"
-  color="warn"
-  [matMenuTriggerData]="seasons"
->
-  {{ inputSeason }} Season
-</button>
-<mat-menu #menu="matMenu">
-  <ng-template matMenuContent>
-    <button mat-menu-item (click)="setSeason(seasons[2])">
-      {{ seasons[2] }}
-    </button>
-    <button mat-menu-item (click)="setSeason(seasons[1])">
-      {{ seasons[1] }}
-    </button>
-    <button mat-menu-item (click)="setSeason(seasons[0])">
-      {{ seasons[0] }}
-    </button>
-  </ng-template>
-</mat-menu>
+<!-- Seasons button component -->
+<app-seasons-button (inputSeason)="getStandings($event)" [seasons]="seasons"></app-seasons-button>
 <!-- <mat-divider></mat-divider> -->
 <div>
   <p class="mat-caption glossary">
@@ -149,24 +130,24 @@
   <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
   <mat-row *matRowDef="let row; columns: displayedColumns"></mat-row>
 </mat-table>
-  <div>
-    <h4 class="mat-subheading-2 glossary-title">Team Standing Color Code</h4>
-    <p class="champion mat-body-2">
-      UEFA Champion League group stage
-    </p>
-    <p class="europa mat-body-2">
-      Europa League group stage
-    </p>
-    <p class="europa-qualifier mat-body-2">
-      Europa League qualifier
-    </p>
-    <p class="relegation mat-body-2">
-      Relegation
-    </p>
-  </div>
-
 
 <p *ngIf="standings.length == 0" class="mat-subheading-2 align-text">
   Nothing to see here...
 </p>
+
+<div>
+  <h4 class="mat-subheading-2 glossary-title">Team Standing Color Code</h4>
+  <p class="champion mat-body-2">
+    UEFA Champion League group stage
+  </p>
+  <p class="europa mat-body-2">
+    Europa League group stage
+  </p>
+  <p class="europa-qualifier mat-body-2">
+    Europa League qualifier
+  </p>
+  <p class="relegation mat-body-2">
+    Relegation
+  </p>
+</div>
 <!-- TODO4: might consider adding expand and collapsible to table element -->

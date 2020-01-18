@@ -51,7 +51,6 @@ import { MatchDetailsDialogComponent } from './match-details-dialog/match-detail
     MatGridListModule,
     MatDialogModule,
     MatPaginatorModule
-    // SeasonsButtonComponent
   ],
   entryComponents: [MatchDetailsDialogComponent],
   providers: [],

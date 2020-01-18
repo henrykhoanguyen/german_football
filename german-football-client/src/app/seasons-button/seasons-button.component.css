@@ -1,0 +1,17 @@
+button {
+  width: 20%;
+  justify-content: center;
+  display: flex;
+}
+
+@media screen and (max-width: 920px){
+  button {
+    width: 25%;
+    justify-content: center;
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 720px){
+
+}
