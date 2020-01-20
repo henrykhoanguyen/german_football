@@ -9,7 +9,7 @@ import { FootballService } from '../services/football.service';
 export class StandingsTableComponent implements OnInit {
   private standings: [] = [];
   private seasons = [];
-  // private inputSeason: string;
+
   private length: number;
   private displayedColumns: string[] = ['Rank', 'Name', 'Wins', 'Losses',
   'Draws', 'GoalsFor', 'GoalsAgainst', 'GoalsDifference', 'Points'];

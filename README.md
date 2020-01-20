@@ -1,7 +1,7 @@
 # German Football - Bundesliga
 
-This is a web page that displays League Table and Match Stats of 2 German football leagues (Bundesliga 1, 2)
-
+>This is a web page that displays League Table and Match Stats of 2 German football leagues (Bundesliga 1, 2)
+>
 > **Disclaimer:**
 > I love football, but I am also :us:American:us:. There is another type of sport in my country that is called football. So, I will use the term 'soccer' and 'football' interchangeably. Cheer! :)
 
