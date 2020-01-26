@@ -3,6 +3,35 @@ mat-toolbar {
   padding-left: 20%;
 }
 
+#futball {
+  animation: roll 2s ease-out forwards alternate;
+}
+
+@keyframes roll {
+  from {
+    transform: translateX(500%) rotateZ(0deg);
+  }
+
+  to {
+    transform: translateX(0%) rotateZ(-720deg);
+  }
+  /* 80% {
+    transform: translateY(0%) rotateZ(-720deg);
+  }
+  85% {
+    transform: translateY(-45%) rotateZ(-720deg);
+  }
+  90% {
+    transform: translateY(-0%) rotateZ(-720deg);
+  }
+  95% {
+    transform: translateY(-25%) rotateZ(-720deg);
+  }
+  100% {
+    transform: translateY(0%) rotateZ(-720deg);
+  } */
+}
+
 @media screen and (max-width: 920px){
   mat-toolbar {
     justify-content: center;
