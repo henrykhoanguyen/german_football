@@ -30,14 +30,14 @@ app.use("/api/v1/standings", standings);
 app.use(errorHandler);
 
 // Serve static assests if in production
-if(process.env.NODE_ENV === 'production'){
-  // Set static folder
-  app.use(express.static('german-football-client/dist'));
+// if(process.env.NODE_ENV === 'production'){
+//   // Set static folder
+//   app.use(express.static('german-football-client/dist'));
 
-  app.get('*', (req, res) => {
-      res.sendFile(path.resolve(__dirname, 'german-football-client', 'dist', 'index.html'));
-  });
-}
+//   app.get('*', (req, res) => {
+//       res.sendFile(path.resolve(__dirname, 'german-football-client', 'dist', 'index.html'));
+//   });
+// }
 
 // Get port to be connected to
 const PORT = process.env.PORT || 5000;
