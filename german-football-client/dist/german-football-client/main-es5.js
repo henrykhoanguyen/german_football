@@ -99,7 +99,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<mat-toolbar color=\"warn\">\n  German Football - Bundesliga &nbsp;\n  <fa-icon [icon]=\"faFutbol\"> </fa-icon>\n</mat-toolbar>\n";
+    __webpack_exports__["default"] = "<mat-toolbar color=\"warn\">\n  German Football - Bundesliga &nbsp;\n  <fa-icon [icon]=\"faFutbol\" id=\"futball\"> </fa-icon>\n</mat-toolbar>\n";
     /***/
   },
 
@@ -1079,7 +1079,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "mat-toolbar {\n  /* justify-content: center; */\n  padding-left: 20%;\n}\n\n@media screen and (max-width: 920px){\n  mat-toolbar {\n    -webkit-box-pack: center;\n            justify-content: center;\n    padding-left: 0;\n  }\n}\n\n@media screen and (max-width: 720px){\n  /* mat-toolbar {\n    justify-content: center;\n    padding: 0;\n  } */\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaGVhZGVyL2hlYWRlci5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsNkJBQTZCO0VBQzdCLGlCQUFpQjtBQUNuQjs7QUFFQTtFQUNFO0lBQ0Usd0JBQXVCO1lBQXZCLHVCQUF1QjtJQUN2QixlQUFlO0VBQ2pCO0FBQ0Y7O0FBRUE7RUFDRTs7O0tBR0c7QUFDTCIsImZpbGUiOiJzcmMvYXBwL2hlYWRlci9oZWFkZXIuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIm1hdC10b29sYmFyIHtcbiAgLyoganVzdGlmeS1jb250ZW50OiBjZW50ZXI7ICovXG4gIHBhZGRpbmctbGVmdDogMjAlO1xufVxuXG5AbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA5MjBweCl7XG4gIG1hdC10b29sYmFyIHtcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICBwYWRkaW5nLWxlZnQ6IDA7XG4gIH1cbn1cblxuQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzIwcHgpe1xuICAvKiBtYXQtdG9vbGJhciB7XG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgcGFkZGluZzogMDtcbiAgfSAqL1xufVxuIl19 */";
+    __webpack_exports__["default"] = "mat-toolbar {\n  /* justify-content: center; */\n  padding-left: 20%;\n}\n\n#futball {\n  -webkit-animation: roll 2s ease-out forwards alternate;\n          animation: roll 2s ease-out forwards alternate;\n}\n\n@-webkit-keyframes roll {\n  from {\n    -webkit-transform: translateX(500%) rotateZ(0deg);\n            transform: translateX(500%) rotateZ(0deg);\n  }\n\n  to {\n    -webkit-transform: translateX(0%) rotateZ(-720deg);\n            transform: translateX(0%) rotateZ(-720deg);\n  }\n  /* 80% {\n    transform: translateY(0%) rotateZ(-720deg);\n  }\n  85% {\n    transform: translateY(-45%) rotateZ(-720deg);\n  }\n  90% {\n    transform: translateY(-0%) rotateZ(-720deg);\n  }\n  95% {\n    transform: translateY(-25%) rotateZ(-720deg);\n  }\n  100% {\n    transform: translateY(0%) rotateZ(-720deg);\n  } */\n}\n\n@keyframes roll {\n  from {\n    -webkit-transform: translateX(500%) rotateZ(0deg);\n            transform: translateX(500%) rotateZ(0deg);\n  }\n\n  to {\n    -webkit-transform: translateX(0%) rotateZ(-720deg);\n            transform: translateX(0%) rotateZ(-720deg);\n  }\n  /* 80% {\n    transform: translateY(0%) rotateZ(-720deg);\n  }\n  85% {\n    transform: translateY(-45%) rotateZ(-720deg);\n  }\n  90% {\n    transform: translateY(-0%) rotateZ(-720deg);\n  }\n  95% {\n    transform: translateY(-25%) rotateZ(-720deg);\n  }\n  100% {\n    transform: translateY(0%) rotateZ(-720deg);\n  } */\n}\n\n@media screen and (max-width: 920px){\n  mat-toolbar {\n    -webkit-box-pack: center;\n            justify-content: center;\n    padding-left: 0;\n  }\n}\n\n@media screen and (max-width: 720px){\n  /* mat-toolbar {\n    justify-content: center;\n    padding: 0;\n  } */\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaGVhZGVyL2hlYWRlci5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsNkJBQTZCO0VBQzdCLGlCQUFpQjtBQUNuQjs7QUFFQTtFQUNFLHNEQUE4QztVQUE5Qyw4Q0FBOEM7QUFDaEQ7O0FBRUE7RUFDRTtJQUNFLGlEQUF5QztZQUF6Qyx5Q0FBeUM7RUFDM0M7O0VBRUE7SUFDRSxrREFBMEM7WUFBMUMsMENBQTBDO0VBQzVDO0VBQ0E7Ozs7Ozs7Ozs7Ozs7O0tBY0c7QUFDTDs7QUF2QkE7RUFDRTtJQUNFLGlEQUF5QztZQUF6Qyx5Q0FBeUM7RUFDM0M7O0VBRUE7SUFDRSxrREFBMEM7WUFBMUMsMENBQTBDO0VBQzVDO0VBQ0E7Ozs7Ozs7Ozs7Ozs7O0tBY0c7QUFDTDs7QUFFQTtFQUNFO0lBQ0Usd0JBQXVCO1lBQXZCLHVCQUF1QjtJQUN2QixlQUFlO0VBQ2pCO0FBQ0Y7O0FBRUE7RUFDRTs7O0tBR0c7QUFDTCIsImZpbGUiOiJzcmMvYXBwL2hlYWRlci9oZWFkZXIuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIm1hdC10b29sYmFyIHtcbiAgLyoganVzdGlmeS1jb250ZW50OiBjZW50ZXI7ICovXG4gIHBhZGRpbmctbGVmdDogMjAlO1xufVxuXG4jZnV0YmFsbCB7XG4gIGFuaW1hdGlvbjogcm9sbCAycyBlYXNlLW91dCBmb3J3YXJkcyBhbHRlcm5hdGU7XG59XG5cbkBrZXlmcmFtZXMgcm9sbCB7XG4gIGZyb20ge1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWCg1MDAlKSByb3RhdGVaKDBkZWcpO1xuICB9XG5cbiAgdG8ge1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWCgwJSkgcm90YXRlWigtNzIwZGVnKTtcbiAgfVxuICAvKiA4MCUge1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgwJSkgcm90YXRlWigtNzIwZGVnKTtcbiAgfVxuICA4NSUge1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNDUlKSByb3RhdGVaKC03MjBkZWcpO1xuICB9XG4gIDkwJSB7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC0wJSkgcm90YXRlWigtNzIwZGVnKTtcbiAgfVxuICA5NSUge1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtMjUlKSByb3RhdGVaKC03MjBkZWcpO1xuICB9XG4gIDEwMCUge1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgwJSkgcm90YXRlWigtNzIwZGVnKTtcbiAgfSAqL1xufVxuXG5AbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA5MjBweCl7XG4gIG1hdC10b29sYmFyIHtcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICBwYWRkaW5nLWxlZnQ6IDA7XG4gIH1cbn1cblxuQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzIwcHgpe1xuICAvKiBtYXQtdG9vbGJhciB7XG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgcGFkZGluZzogMDtcbiAgfSAqL1xufVxuIl19 */";
     /***/
   },
 
@@ -1576,9 +1576,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       function FootballService(http) {
         _classCallCheck(this, FootballService);
 
-        this.http = http; // private footballUrl = 'http://localhost:5000/api/v1/';
+        this.http = http; // private footballUrl = 'http://localhost:5000/api/v1/'; // to run server locally
 
-        this.footballUrl = 'api/v1/';
+        this.footballUrl = 'api/v1/'; // to run server on heroku
+
         console.log('Football service initialized...');
       }
 
