@@ -7,11 +7,11 @@ import { FootballService } from '../services/football.service';
   styleUrls: ['./standings-table.component.css']
 })
 export class StandingsTableComponent implements OnInit {
-  private standings: [] = [];
-  private seasons = [];
+  public standings: [] = [];
+  public seasons = [];
 
-  private length: number;
-  private displayedColumns: string[] = ['Rank', 'Name', 'Wins', 'Losses',
+  public length: number;
+  public displayedColumns: string[] = ['Rank', 'Name', 'Wins', 'Losses',
   'Draws', 'GoalsFor', 'GoalsAgainst', 'GoalsDifference', 'Points'];
 
   constructor(private footballService: FootballService) {

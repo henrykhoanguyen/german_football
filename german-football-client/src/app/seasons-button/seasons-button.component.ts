@@ -7,7 +7,7 @@ import { Component, OnInit, Input, EventEmitter, Output } from '@angular/core';
 })
 export class SeasonsButtonComponent implements OnInit {
   @Output() inputSeason = new EventEmitter<string>();
-  @Input() seasons: [];
+  @Input() seasons = [0, 0, 0];
   displayingSeason: string;
 
   constructor() { }

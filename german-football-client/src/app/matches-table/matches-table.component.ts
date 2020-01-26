@@ -13,14 +13,14 @@ import { MatchDetailsDialogComponent } from '../match-details-dialog/match-detai
 })
 export class MatchesTableComponent implements OnInit {
   // private inputSeason: string;
-  private matches: [] = [];
-  private length: number;
+  public matches: [] = [];
+  public length: number;
 
-  private pagedMatches = []; // only has 9 matches to be displayed on each page
+  public pagedMatches = []; // only has 9 matches to be displayed on each page
   private pageIndex = 0; // pageIndex by default is 0
   private pageSize = 9;
 
-  private seasons = [];
+  public seasons = [];
 
   constructor(
     private footballService: FootballService,
