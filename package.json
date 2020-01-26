@@ -9,7 +9,7 @@
     "server": "nodemon server.js",
     "client": "npm start --prefix german-football-client",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix german-football-client"
+    "heroku-postbuild": "cd german-football-client && npm install && npm run build"
   },
   "repository": {
     "type": "git",

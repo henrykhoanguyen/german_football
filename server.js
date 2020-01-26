@@ -8,9 +8,10 @@ const path = require('path');
 
 // Load env vars
 dotenv.config({ path: "./config/config.env" });
-
+console.log("Stand by! Connecting to mongoDB...");
 // Connect to DB
 connectDB();
+console.log(`Connection completed! ${process.env.MONGO_URI}`);
 
 // Route files
 const matches = require("./routes/matches");
