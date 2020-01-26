@@ -7,7 +7,7 @@
     "client-install": "npm install --prefix german-football-client",
     "start": "NODE_ENV=production node server",
     "server": "nodemon server.js",
-    "client": "npm start --prefix ../german-football-client",
+    "client": "npm start --prefix german-football-client",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix german-football-client && npm run build --prefix german-football-client"
   },
