@@ -1,17 +1,28 @@
-const connectDB = require("./config/db");
+// const connectDB = require("./config/db");
 const express = require("express");
 const dotenv = require("dotenv");
 const colors = require("colors");
 const errorHandler = require("./middleware/errors");
-const cors = require('cors');
-const path = require('path');
+const cors = require("cors");
+const mongoose = require("mongoose");
+const path = require("path");
 
 // Load env vars
 dotenv.config({ path: "./config/config.env" });
-console.log("Stand by! Connecting to mongoDB...");
+// console.log("Stand by! Connecting to mongoDB...");
+// console.log(`${process.env.MONGO_URI}`);
 // Connect to DB
+const connectDB = async () => {
+  const conn = await mongoose.connect(process.env.MONGO_URI, {
+    useNewUrlParser: true,
+    useCreateIndex: true,
+    useFindAndModify: false,
+    useUnifiedTopology: true
+  });
+
+  console.log(`MongoDB Connected: ${conn.connection.host}`.cyan.bold);
+};
 connectDB();
-console.log(`Connection completed! ${process.env.MONGO_URI}`);
 
 // Route files
 const matches = require("./routes/matches");
@@ -33,17 +44,23 @@ app.use(errorHandler);
 // Get port to be connected to
 const PORT = process.env.PORT || 5000;
 
-
 // Serve static assests if in production
-if(process.env.NODE_ENV === 'production'){
+if (process.env.NODE_ENV === "production") {
   // Set static folder
-  app.use(express.static('german-football-client/dist/german-football-client'));
+  app.use(express.static("german-football-client/dist/german-football-client"));
 
-  app.get('*', (req, res) => {
-      res.sendFile(path.resolve(__dirname, 'german-football-client', 'dist', 'german-football-client', 'index.html'));
+  app.get("*", (req, res) => {
+    res.sendFile(
+      path.resolve(
+        __dirname,
+        "german-football-client",
+        "dist",
+        "german-football-client",
+        "index.html"
+      )
+    );
   });
 }
-
 
 const server = app.listen(
   PORT,
