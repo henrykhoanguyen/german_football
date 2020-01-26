@@ -7,7 +7,8 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class FootballService {
-  private footballUrl = 'http://localhost:5000/api/v1/';
+  // private footballUrl = 'http://localhost:5000/api/v1/';
+  private footballUrl = 'api/v1/';
 
   constructor(private http: HttpClient) {
     console.log('Football service initialized...');
